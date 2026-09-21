@@ -1,0 +1,10 @@
+# Runtime dependencies for scoring_engine.py
+# Everything else it imports (re, sys, unicodedata, dataclasses, pathlib,
+# collections) is in the Python standard library.
+
+# Direct import: `import pandas as pd`
+pandas>=2.0
+
+# Not imported directly, but required by pandas.read_excel() to open the
+# .xlsx inputs in data/ -- pandas raises ImportError without it.
+openpyxl>=3.1

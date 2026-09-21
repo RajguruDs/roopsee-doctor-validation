@@ -1,0 +1,245 @@
+Unmatched Ingredient,Mention Count,Best Canonical Ingredient,Candidate Score,Match Type / Basis,Domain Decision,Candidate In Scoring List
+Coenzyme Q10,4,Ubiquinone (CoQ10),100.0,Domain-approved parenthetical equivalent,MAP,True
+Ghk-cu,1,Copper Tripeptide-1 (GHK-Cu),44.6,Candidate similarity; domain review required,REVIEW_REQUIRED,True
+Haldi Beads,1,Curcuma Longa (Turmeric) Extract/Beads (Haldi Beads),42.2,Candidate similarity; domain review required,REVIEW_REQUIRED,True
+Haritaki Fruitextract - 2.0%,1,Terminalia Chebula (Haritaki) Fruit Extract - 2%,46.0,Candidate similarity; domain review required,REVIEW_REQUIRED,True
+Helianthus Annuus Seed Wax,1,Helianthus Annuus (Sunflower) Seed Wax,74.1,Candidate similarity; domain review required,REVIEW_REQUIRED,True
+Herbal Emollients,1,Herbal Emollients (unspecified blend),63.5,Candidate similarity; domain review required,REVIEW_REQUIRED,True
+Homopolymer,1,Homopolymer (unspecified),63.1,Candidate similarity; domain review required,REVIEW_REQUIRED,True
+Hordeum Vulgare -1.00%,1,Hordeum Vulgare - 5.0%,62.4,Candidate similarity; domain review required,REVIEW_REQUIRED,True
+Inula Helenium Extract,1,Inula Helenium (Elecampane) Root Extract,61.3,Candidate similarity; domain review required,REVIEW_REQUIRED,True
+Kapurkachri,1,Hedychium Spicatum (Kapurkachri) Extract,43.4,Candidate similarity; domain review required,REVIEW_REQUIRED,True
+L Petroleum Resins,1,Petroleum Resin (L Petroleum Resins; identity incomplete),55.0,Candidate similarity; domain review required,REVIEW_REQUIRED,True
+Light Liquid Paraffin,1,Mineral Oil (Light Liquid Paraffin),73.8,Candidate similarity; domain review required,REVIEW_REQUIRED,True
+Lime,1,Lime extract,100.0,Domain-approved equivalent,MAP,True
+Lime Pearl,1,Pearl,64.2,Candidate similarity; domain review required,REVIEW_REQUIRED,True
+Linoleamidopropyl PG Dimonium Chloride Phosphate,1,Linoleamidopropyl Pg Dimonium Chloride Phosphate,100.0,Safe normalization / exact canonical,MAP,True
+Linum Usitatissimum Seed Oil,1,Linum Usitatissimum (Flax) Seed Oil,78.5,Candidate similarity; domain review required,REVIEW_REQUIRED,True
+Marsh Mallow Leaf,1,Marshmallow Root Extract,37.6,Candidate similarity; domain review required,REVIEW_REQUIRED,True
+Mel/honey,1,Honey,66.8,Candidate similarity; domain review required,REVIEW_REQUIRED,True
+Melia Azadirachta Leaf Extract,1,Melia Azadirachta (Neem) Leaf Extract,78.8,Candidate similarity; domain review required,REVIEW_REQUIRED,True
+Mesua Ferrea - 1.0%,1,Mesua Ferrea Extract - 1% (plant part unspecified),40.2,Candidate similarity; domain review required,REVIEW_REQUIRED,True
+Myrciaria Dubia Fruit Extract,1,Myrciaria Dubia (Camu Camu) Fruit Extract,74.9,Candidate similarity; domain review required,REVIEW_REQUIRED,True
+Narcissuspoeticus - 0.5%,1,Narcissus Poeticus Extract - 0.5%,57.0,Candidate similarity; domain review required,REVIEW_REQUIRED,True
+Neo Heliopan Hydro,1,Phenylbenzimidazole Sulfonic Acid (Ensulizole / Neo Heliopan Hydro),49.4,Candidate similarity; domain review required,REVIEW_REQUIRED,True
+Octyldodecanolm Polyglyceryl-2 Triisostearate,1,Octyldodecanol/Polyglyceryl-2 Triisostearate (as listed: Octyldodecanolm Polyglyceryl-2 Triisostearate),64.1,Candidate similarity; domain review required,REVIEW_REQUIRED,True
+Olea Europaea -2.0%,1,Olea Europaea - 0.5%,69.5,Candidate similarity; domain review required,REVIEW_REQUIRED,True
+Oleic,1,Oleic Acid,64.2,Candidate similarity; domain review required,REVIEW_REQUIRED,True
+Osmogeline,1,Osmogeline (trade/identity unresolved),42.7,Candidate similarity; domain review required,REVIEW_REQUIRED,True
+Phaseolus Angularis Seed Extract,1,Phaseolus Angularis (Adzuki Bean) Seed Extract,69.6,Candidate similarity; domain review required,REVIEW_REQUIRED,True
+Pogostemon Cablin Oil,1,Pogostemon Cablin (Patchouli) Oil,70.7,Candidate similarity; domain review required,REVIEW_REQUIRED,True
+Polymethylsilsequioxane,1,Polymethylsilsesquioxane,53.8,Candidate similarity; domain review required,REVIEW_REQUIRED,True
+Polysaccharides,1,Polysaccharides (unspecified),66.8,Candidate similarity; domain review required,REVIEW_REQUIRED,True
+Potassium Cetyl,1,Potassium Cetyl Phosphate,74.6,Candidate similarity; domain review required,REVIEW_REQUIRED,True
+Pro-vitamin B5,1,Pro-vitamin B5 (Panthenol),76.8,Candidate similarity; domain review required,REVIEW_REQUIRED,True
+Prunusarmeniaca - 10.0%,1,Prunus Armeniaca (Apricot) Kernel Oil - 10%,38.5,Candidate similarity; domain review required,REVIEW_REQUIRED,True
+Prunusarmeniaca - 14.0%,1,Prunus Armeniaca (Apricot) Kernel Oil - 14%,38.5,Candidate similarity; domain review required,REVIEW_REQUIRED,True
+Psiyetobutene,1,Psiyetobutene (unresolved/likely misspelling),44.3,Candidate similarity; domain review required,REVIEW_REQUIRED,True
+Punicagranatum - 0.2%,1,Punica Granatum (Pomegranate) Extract - 0.2%,44.7,Candidate similarity; domain review required,REVIEW_REQUIRED,True
+Rakhta Chandan,1,Sandalwood (Rakht Chandan),46.4,Candidate similarity; domain review required,REVIEW_REQUIRED,True
+Rubus Idaeus Juice,1,Rubus Idaeus (Raspberry) Juice,69.3,Candidate similarity; domain review required,REVIEW_REQUIRED,True
+Sanjeevani Infusion - 2.0%,1,Sanjeevani Infusion - 2% (proprietary/unspecified blend),47.7,Candidate similarity; domain review required,REVIEW_REQUIRED,True
+Sodium Metabisulphite,1,Sodium Metabisulfite,62.6,Candidate similarity; domain review required,REVIEW_REQUIRED,True
+Styrene,1,Hydrogenated Styrene Copolymer,42.5,Candidate similarity; domain review required,REVIEW_REQUIRED,True
+Suncat MTA,1,SunCat MTA (Encapsulated Octinoxate + Avobenzone + Octocrylene UV Filter Blend),31.0,Candidate similarity; domain review required,REVIEW_REQUIRED,True
+Sunflower Seed Oils And Rosemary Extract,1,Sunflower Seed Oil + Rosemary Extract,71.3,Candidate similarity; domain review required,REVIEW_REQUIRED,True
+Tazmann Pepper,1,Pink Pepper Extract,35.4,Candidate similarity; domain review required,REVIEW_REQUIRED,True
+Tea Tree Flower,1,Tea Tree Oil,58.2,Candidate similarity; domain review required,REVIEW_REQUIRED,True
+Theobroma Coconut,1,Theobroma Cacao Extract,47.2,Candidate similarity; domain review required,REVIEW_REQUIRED,True
+Thethanolamine Sodium Polyacrylate,1,Thethanolamine Sodium Polyacrylate (identity/spelling unresolved),66.1,Candidate similarity; domain review required,REVIEW_REQUIRED,True
+Treemoss Extract,1,Evernia Furfuracea (Treemoss) Extract,62.0,Candidate similarity; domain review required,REVIEW_REQUIRED,True
+Tris Citrate,1,Tris Citrate (identity incomplete),57.5,Candidate similarity; domain review required,REVIEW_REQUIRED,True
+Triticum Vulgare - 1.0%,1,Triticum Vulgare (Wheat) Extract - 1%,55.6,Candidate similarity; domain review required,REVIEW_REQUIRED,True
+Triticum Vulgare -2.0%,1,Triticum Vulgare (Wheat) Extract - 2%,55.6,Candidate similarity; domain review required,REVIEW_REQUIRED,True
+Triticum Vulgare Germ Oil,1,Triticum Vulgare (Wheat) Germ Oil,77.1,Candidate similarity; domain review required,REVIEW_REQUIRED,True
+Triticum Vulgare Starch,1,Triticum Vulgare (Wheat) Starch,74.9,Candidate similarity; domain review required,REVIEW_REQUIRED,True
+Univul T150,1,Ethylhexyl Triazone / Uvinul T150,30.6,Candidate similarity; domain review required,REVIEW_REQUIRED,True
+Usheer,1,Ghee,33.0,Candidate similarity; domain review required,REVIEW_REQUIRED,True
+Uvinal A Plus,1,Vitamin A,33.8,Candidate similarity; domain review required,REVIEW_REQUIRED,True
+Vegan Mung Mucin,1,Vigna Radiata (Mung Bean) Extract / Vegan Mung Mucin,52.5,Candidate similarity; domain review required,REVIEW_REQUIRED,True
+Withania Somnifera -0.5%,1,Withania Somnifera (Ashwagandha) Extract - 0.5%,61.1,Candidate similarity; domain review required,REVIEW_REQUIRED,True
+Yashad Bhasma,1,Yashad Bhasma (Calcined Zinc/Zinc Calx),52.6,Candidate similarity; domain review required,REVIEW_REQUIRED,True
+Lavender Extract,53,Lavender Essential Oil,0.632,Same source but different material,MAP,True
+Immortelle Extract,34,Immortelle Sap-Like Extract,0.8,Same source but different material,MAP,True
+Rosemary Extract,25,Rosemary Leaf Extract,0.865,Same source but different material,MAP,True
+Laminaria Extract,22,Laminaria Japonica Extract,0.791,Same source but different material,MAP,True
+Aminopropyl Ascorbyl Phosphate,19,Sodium Ascorbyl Phosphate,0.727,Related chemical but not equivalent,MAP,True
+Cyclomethicone,13,Dimethicone,0.72,Related chemical but not equivalent,MAP,True
+Glycol Stearate,13,Glyceryl Stearate,0.875,Related chemical but not equivalent,MAP,True
+Hydrogenated Olive Oil Unsaponifiables,12,Olive Oil,0.383,Related chemical but not equivalent,MAP,True
+Tripeptide-1,11,Tripeptide,0.909,Related chemical but not equivalent,MAP,True
+Olive Oil Derived Emulsifier,10,Olive Oil,0.486,Related chemical but not equivalent,MAP,True
+Palmitoyl Grape Seed Extract,10,Grape Seed Extract,0.783,Related chemical but not equivalent,MAP,True
+Soy Polypeptide,8,Polypeptide,0.846,Related chemical but not equivalent,MAP,True
+Olive Oil PEG-7 Esters,7,Olive Oil,0.581,Related chemical but not equivalent,MAP,True
+Squalane Dicaprylyl Ether,7,Squalane,0.485,Related chemical but not equivalent,MAP,True
+Alpha-glucan Oligosaccharide,6,Alpha-Glucan,0.6,Related chemical but not equivalent,MAP,True
+E-ascorbic Acid,6,Jasmonic Acid,0.714,No reliable equivalence,MAP,True
+7-Dehydrocholesterol,5,Cholesterol,0.71,Related chemical but not equivalent,MAP,True
+Isostearic Acid,5,Stearic Acid,0.889,Related chemical but not equivalent,MAP,True
+Palmitoyl Oligopeptide,5,Palmitoyl Tripeptide,0.857,Related chemical but not equivalent,MAP,True
+Polyhydroxystearic Acid,5,Stearic Acid,0.686,Related chemical but not equivalent,MAP,True
+Tocopheryl,5,Tocopherol,0.9,Related chemical but not equivalent,MAP,True
+Banana Extract,4,Chandan Extract,0.828,Related chemical but not equivalent,MAP,True
+Cetyl Palmitate,4,Retinyl Palmitate,0.875,Related chemical but not equivalent,MAP,True
+Gluconic Acid,4,Glycolic Acid,0.846,Related chemical but not equivalent,MAP,True
+Trehalosemethyl Trimethicone,4,Trehalose,0.486,Related chemical but not equivalent,MAP,True
+Triabsorb,4,Triasorb,0.889,Related chemical but not equivalent,MAP,True
+Acetyl Dipeptide 1 Cetyl Ester,3,Peptide,0.378,Related chemical but not equivalent,MAP,True
+Anhydroxylitol,3,Xylitol,0.667,Related chemical but not equivalent,MAP,True
+Capryloyl Glycerin,3,Capryloyl Glycine,0.914,Related chemical but not equivalent,MAP,True
+Hepta Sodium Hexa Carboxymethyl Dipeptide-12,3,Peptide,0.275,Related chemical but not equivalent,MAP,True
+Hydrogenated Rapeseed Oil,3,Rapeseed Oil,0.649,Related chemical but not equivalent,MAP,True
+Hydroxystearic Acid,3,Stearic Acid,0.774,Related chemical but not equivalent,MAP,True
+Oligopeptide- 68,3,Oligopeptide-1,0.867,Related chemical but not equivalent,MAP,True
+Olive Oil Peg-7 Esters,3,Olive Oil,0.581,Related chemical but not equivalent,MAP,True
+Orbignya Oleifera Seed Oil,3,Moringa Oleifera Seed Oil,0.902,Related chemical but not equivalent,MAP,True
+Palmitoyl Hexapeptide-14,3,Palmitoyl Hexapeptide-12,0.958,Related chemical but not equivalent,MAP,True
+Palmitoyl Tetrapeptide-10,3,Palmitoyl Tetrapeptide-7,0.939,Related chemical but not equivalent,MAP,True
+Shea Butter Ethyl Esters,3,Shea Butter,0.629,Related chemical but not equivalent,MAP,True
+Sodium Acrylate,3,Sodium Ascorbate,0.839,Related chemical but not equivalent,MAP,True
+Vitamin E Derivative,3,Vitamin E,0.621,Related chemical but not equivalent,MAP,True
+C Triglycerides,2,Acid/ Capric Triglyceride,0.7,No reliable equivalence,MAP,True
+Caprylic,2,Caprylic Capric Triglyceride,0.444,No reliable equivalence,MAP,True
+Ceramide 1,2,Ceramide NP,0.857,Related chemical but not equivalent,MAP,True
+Ceramide 2,2,Ceramide NP,0.857,Related chemical but not equivalent,MAP,True
+Citronellol Alpha-isomethyl Ionone,2,Alpha-Isomethyl Ionone,0.786,Related chemical but not equivalent,MAP,True
+Cocamidopropyl Dimethylamine,2,Cocamidopropyl Betaine,0.84,Related chemical but not equivalent,MAP,True
+Cyclotetrapeptide-24 Aminocyclohexane Carboxylate,2,Tetrapeptide,0.393,Related chemical but not equivalent,MAP,True
+Cymbopogon Schoenanthus Extract,2,Cymbopogon Schoenanthus Oil,0.828,Same source but different material,MAP,True
+DM Water,2,Sea Water,0.706,No reliable equivalence,MAP,True
+Dextrin Palmitate,2,Retinyl Palmitate,0.824,Related chemical but not equivalent,MAP,True
+Fractionated Coconut Oil,2,Coconut Oil,0.629,Related chemical but not equivalent,MAP,True
+Fructose And Glycerine,2,Glycerin,0.533,No reliable equivalence,MAP,True
+Glycerin And Glyceryl Glucoside,2,Glyceryl Glucoside,0.735,No reliable equivalence,MAP,True
+Glycol Distearate,2,Glyceryl Stearate,0.824,Related chemical but not equivalent,MAP,True
+Hydrated Silica,2,Silica,0.571,Related chemical but not equivalent,MAP,True
+Hydrolyzed Cicer Seed Extract,2,Hydrolyzed Rice Extract,0.846,Related chemical but not equivalent,MAP,True
+Lactobacillus Ferment Lysate,2,Lactococcus Ferment Lysate,0.852,Related chemical but not equivalent,MAP,True
+Oligopeptide-68,2,Oligopeptide-1,0.897,Related chemical but not equivalent,MAP,True
+Olus Oil,2,Lotus Oil,0.824,Related chemical but not equivalent,MAP,True
+Palmitoyl Tripeptide-8,2,Palmitoyl Tripeptide-5,0.955,Related chemical but not equivalent,MAP,True
+Pentapeptide-34 Trifluoroacetate,2,Peptide,0.359,Related chemical but not equivalent,MAP,True
+Peppermint Leaf Water,2,Peppermint,0.645,Same source but different material,MAP,True
+Sesame Seed Oil Olive Fruit Oil,2,Olive Fruit Oil,0.652,Related chemical but not equivalent,MAP,True
+Sh-Oligopeptide-1,2,Oligopeptide-1,0.903,Related chemical but not equivalent,MAP,True
+Sh-Polypeptide-123,2,Polypeptide,0.759,Related chemical but not equivalent,MAP,True
+Sunflower Sprout Extract,2,Sunflower Seed Extract,0.826,Related chemical but not equivalent,MAP,True
+Synthetic Beeswax,2,Beeswax,0.583,Related chemical but not equivalent,MAP,True
+Tranexamoyl dipeptide-23,2,Peptide,0.452,Related chemical but not equivalent,MAP,True
+Trisiloxane,2,Drometrizole Trisiloxane / Mexoryl XL,0.458,Related chemical but not equivalent,MAP,True
+Xylitol Rhamnosis,2,Xylitol,0.583,Related chemical but not equivalent,MAP,True
+40 Hydrogenated Castor Oil,1,Peg-60 Hydrogenated Castor Oil,0.893,Related chemical but not equivalent,MAP,True
+Acetyl Dipeptide- 1 Cetyl Ester,1,Peptide,0.368,Related chemical but not equivalent,MAP,True
+Acetyl Dipeptide-1 Cetyl Ester,1,Peptide,0.378,Related chemical but not equivalent,MAP,True
+Acetyl Glutamine,1,acetyl glucosamine,0.882,Related chemical but not equivalent,MAP,True
+Acetyl Heptapeptide-4,1,Acetyl Heptapeptide-9,0.952,Related chemical but not equivalent,MAP,True
+Acetyl Hexapeptide-1,1,Acetyl Hexapeptide-8,0.95,Related chemical but not equivalent,MAP,True
+Acetyl Hexapeptide-4,1,Acetyl Hexapeptide-8,0.95,Related chemical but not equivalent,MAP,True
+Acetyl Tetrapeptide-15,1,Acetyl Tetrapeptide-11,0.955,Related chemical but not equivalent,MAP,True
+Acetyl Tetrapeptide-9,1,Acetyl Tetrapeptide-2,0.952,Related chemical but not equivalent,MAP,True
+Acetyl tetrapeptide-15,1,Acetyl Tetrapeptide-11,0.955,Related chemical but not equivalent,MAP,True
+AcetylDipeptide-1 Cetyl Ester,1,Peptide,0.389,Related chemical but not equivalent,MAP,True
+Alpha Arbutin Ammonium,1,Alpha Arbutin,0.743,Related chemical but not equivalent,MAP,True
+Aluminum Sucrose Octasulfate,1,Sucrose,0.4,Related chemical but not equivalent,MAP,True
+Anhydroxylitol And Xylitol,1,Xylitol,0.424,No reliable equivalence,MAP,True
+Ascorbic Acid Polypeptide,1,Polypeptide,0.611,Related chemical but not equivalent,MAP,True
+Bala Root Extract,1,Bael Root Extract,0.941,Related chemical but not equivalent,MAP,True
+Bitter Orange Leaf,1,Orange,0.5,Same source but different material,MAP,True
+C Cholesterol/lanosterol Esters,1,Cholesterol,0.524,No reliable equivalence,MAP,True
+Caprylyl Methicone And Peg-12 Dimethicone,1,Dimethicone,0.423,No reliable equivalence,MAP,True
+Ceramide NS,1,Ceramide NP,0.909,Related chemical but not equivalent,MAP,True
+Cetearyl,1,Cetearyl Alcohol,0.667,No reliable equivalence,MAP,True
+Citrus Unshiu Peel Extract,1,Citrus Sinensis Peel Extract,0.852,Related chemical but not equivalent,MAP,True
+Copper,1,Copper Peptides,0.571,No reliable equivalence,MAP,True
+Cyclopentasiloxane And Dimethicone,1,Dimethicone,0.489,No reliable equivalence,MAP,True
+Cyclopentasiloxane And Dimethicone Crosspolymer,1,Dimethicone,0.379,No reliable equivalence,MAP,True
+Cyclotetrapeptide-24Aminocyclohexane Carboxylate,1,Tetrapeptide,0.4,Related chemical but not equivalent,MAP,True
+Date Extract,1,Oat Extract,0.87,Related chemical but not equivalent,MAP,True
+Diethylhexyl,1,Iscotrizinol / Diethylhexyl Butamido Triazone / Uvasorb HEB,0.338,No reliable equivalence,MAP,True
+Diethylhexyl Carbonate¸ Propanediol,1,Propanediol,0.478,No reliable equivalence,MAP,True
+Diglucosyl Gallic Acid,1,Gallic Acid,0.667,Related chemical but not equivalent,MAP,True
+EGF Peptides,1,Peptides,0.8,Related chemical but not equivalent,MAP,True
+Ethoxydiglycol Ethylhexylglycerin,1,Ethylhexylglycerin,0.706,Related chemical but not equivalent,MAP,True
+Ethyl Alcohol,1,Cetyl Alcohol,0.923,Related chemical but not equivalent,MAP,True
+Fatty Acids,1,Omega fatty acids,0.786,No reliable equivalence,MAP,True
+Glyceryl Acrylate,1,Glyceryl Stearate,0.824,Related chemical but not equivalent,MAP,True
+Glyceryl Glucoside And Alpha Arbutin,1,Glyceryl Glucoside,0.667,No reliable equivalence,MAP,True
+Glyceryl Sesquistearate,1,Glyceryl Stearate,0.85,Related chemical but not equivalent,MAP,True
+Gold Peptide,1,Goldrella Peptide,0.828,Related chemical but not equivalent,MAP,True
+Grape Fruit Water,1,Grape Fruit Extract,0.778,Same source but different material,MAP,True
+Heptapeptide-15 Palmitate,1,Peptide,0.438,Related chemical but not equivalent,MAP,True
+Heptyl Glucoside,1,Decyl Glucoside,0.839,Related chemical but not equivalent,MAP,True
+Hydrogenated Rapeseed Oil Methylpropanediol,1,Rapeseed Oil,0.436,Related chemical but not equivalent,MAP,True
+Hydrogeneated Olive Oil,1,Olive Oil,0.562,Related chemical but not equivalent,MAP,True
+Lithium Magnesium Sodium Silicate,1,Silica,0.308,Related chemical but not equivalent,MAP,True
+Magnesium Aluminium Silicate,1,Silica,0.353,Related chemical but not equivalent,MAP,True
+Mallotus Japonicus Leaf Extract,1,Mallotus Japonicus Bark Extract,0.903,Same source but different material,MAP,True
+Manicouagan Sea Mineral Clay,1,Mineral Clay,0.6,Related chemical but not equivalent,MAP,True
+Melon Extract,1,Peony Extract,0.846,Related chemical but not equivalent,MAP,True
+Minerals,1,Mineral Oil,0.737,No reliable equivalence,MAP,True
+Mushro0M Extract,1,Snow Mushroom Extract,0.811,Related chemical but not equivalent,MAP,True
+Mushroom Extract,1,Snow Mushroom Extract,0.865,Related chemical but not equivalent,MAP,True
+Nargis Flower Extract,1,Daisy Flower Extract,0.878,Related chemical but not equivalent,MAP,True
+Natural Humectants,1,Natural betaine,0.727,No reliable equivalence,MAP,True
+Nicotinoyl Dipeptide-23,1,Peptide,0.467,Related chemical but not equivalent,MAP,True
+Nonapeptide,1,Peptide,0.778,Related chemical but not equivalent,MAP,True
+Oligopeptide-34,1,Oligopeptide-1,0.897,Related chemical but not equivalent,MAP,True
+Oligopeptides,1,Oligopeptide-1,0.889,Related chemical but not equivalent,MAP,True
+Olive Oil Derivatives,1,Olive Oil,0.6,Related chemical but not equivalent,MAP,True
+Olive Oil Glycereth-8 Esters,1,Olive Oil,0.486,Related chemical but not equivalent,MAP,True
+Olive Oil Methyl Ester,1,Olive Oil,0.581,Related chemical but not equivalent,MAP,True
+Olive Oil Polyglyceryl-6 Esters,1,Olive Oil,0.45,Related chemical but not equivalent,MAP,True
+Organic Acids,1,Tannic Acid,0.75,No reliable equivalence,MAP,True
+P-refinyl,1,Pro-retinol,0.7,No reliable equivalence,MAP,True
+Palmitoyl tetrapeptide-10,1,Palmitoyl Tetrapeptide-7,0.939,Related chemical but not equivalent,MAP,True
+Palmitoylpentapeptide-5,1,Palmitoyl Pentapeptide-4,0.936,Related chemical but not equivalent,MAP,True
+Papaya Fruit Enzyme,1,Papaya Fruit Extract,0.718,Same source but different material,MAP,True
+Pear Fruit Extract,1,Papaya Fruit Extract,0.842,Related chemical but not equivalent,MAP,True
+Peg 40 Hydrogenated Castor Oil,1,Peg-60 Hydrogenated Castor Oil,0.933,Related chemical but not equivalent,MAP,True
+Phosphate,1,Sodium Ascorbyl Phosphate,0.529,No reliable equivalence,MAP,True
+Pisum Sativum Peptide,1,Peptide,0.5,Related chemical but not equivalent,MAP,True
+Polyglycerin-3,1,Glycerin,0.727,Related chemical but not equivalent,MAP,True
+Polyoxyl 40 Hydrogenated Castor Oil,1,Peg-60 Hydrogenated Castor Oil,0.8,Related chemical but not equivalent,MAP,True
+Potato Starch,1,Potato Extract,0.741,Same source but different material,MAP,True
+Preservative,1,Sodium Anisate (Natural Preservative),0.49,No reliable equivalence,MAP,True
+Propylene Glycol Monolaurate,1,Propylene Glycol,0.727,Related chemical but not equivalent,MAP,True
+Propylene Glycol Stearate Se,1,Propylene Glycol,0.727,Related chemical but not equivalent,MAP,True
+Retinol And Polysorbate 20,1,Retinol,0.424,No reliable equivalence,MAP,True
+Rosa Centifolia Flower Juice,1,Rosa Centifolia Flower Water,0.857,Same source but different material,MAP,True
+Safflower Oil,1,Starflower Oil,0.889,Related chemical but not equivalent,MAP,True
+Salicylate,1,Benzyl Salicylate,0.741,No reliable equivalence,MAP,True
+Sea Minerals,1,Cooling Actives (Aloe + Sea Minerals + Cica),0.429,No reliable equivalence,MAP,True
+Sh-pentapeptide-5,1,Heptapeptide-6,0.774,Related chemical but not equivalent,MAP,True
+Shea Butter Glycerides,1,Shea Butter,0.667,Related chemical but not equivalent,MAP,True
+Shorea Stenoptera Seed Butter,1,Seed Butter,0.55,Related chemical but not equivalent,MAP,True
+Silica Silylate,1,Silica,0.571,Related chemical but not equivalent,MAP,True
+Sodium Carboxymethyl Beta- Glucan,1,Glucan,0.308,Related chemical but not equivalent,MAP,True
+Sodium Hydrolyzed Potato Starch Dodecenylsuccinate,1,Potato,0.214,Related chemical but not equivalent,MAP,True
+Sodium Lauroyl Aspartate,1,Sodium Lauroyl Sarcosinate,0.84,Related chemical but not equivalent,MAP,True
+Sodium Lauroyl Isethionate,1,Sodium Lauroyl Methyl Isethionate,0.881,Related chemical but not equivalent,MAP,True
+Soy Milk Peptide,1,Milk Peptides,0.828,Related chemical but not equivalent,MAP,True
+Squalane For Long-lasting,1,Squalane,0.485,No reliable equivalence,MAP,True
+Sunflower Seed Cake,1,Sunflower Seed Wax,0.865,Related chemical but not equivalent,MAP,True
+Tapioca Starch Polymethylsilsesquioxane,1,Tapioca Starch,0.528,Related chemical but not equivalent,MAP,True
+Tocopherol Fragrance,1,Tocopherol,0.667,Related chemical but not equivalent,MAP,True
+Tocopheryl.,1,Tocopherol,0.857,Related chemical but not equivalent,MAP,True
+Triethoxysilyethyl Polydimethylsiloxyethyl Dimethicone,1,Dimethicone,0.338,Related chemical but not equivalent,MAP,True
+Vitamin Ball Ascorbic Acid,1,Vitamin C / Ascorbic Acid,0.863,No reliable equivalence,MAP,True
+Vitamin C And Vitamin E,1,Vitamin E,0.562,No reliable equivalence,MAP,True
+While It Moisturizes,1,Skin Moisturizers,0.703,No reliable equivalence,MAP,True
+White Lily,1,Water Lily,0.8,No reliable equivalence,MAP,True
+Zinc Hydrolyzed Hyaluronate,1,Hydrolyzed Sodium Hyaluronate,0.786,Related chemical but not equivalent,MAP,True
+sh-Oligopeptide-1,1,Oligopeptide-1,0.903,Related chemical but not equivalent,MAP,True
+Jeju Volcanic Ash,,Volcanic Ash,,Onboarding review: geographic sourcing qualifier removed; same material,MAP,True
+Jojoba Seed Oil,,Jojoba Oils,,Onboarding review: plant part is the only source of jojoba oil; same material,MAP,True
+Acetyl Glucosamine,,N-Acetyl Glucosamine,,Onboarding review: chemical naming equivalence (N- denotes attachment site),MAP,True
+1% Acetyl Glucosamine,,N-Acetyl Glucosamine,,Onboarding review: concentration prefix on Acetyl Glucosamine; same molecule,MAP,True
+Aloe Vera Leaf Extract,,Aloe Vera,,Onboarding review: named plant part to generic botanical; aloe extract is leaf-derived,MAP,True
+Birch Sap,,Betula Platyphylla Japonica Juice (Birch Sap),,Onboarding review: workbook row names this ingredient explicitly in its parenthetical,MAP,True
+Heartleaf Water/Extract,,Heartleaf Extract,,Onboarding review: slash denotes alternative form of one botanical; both workbook rows score identically,MAP,True
+Marrubium Vulgare Extract,,Horehound Extract,,Onboarding review: botanical name to common name (Marrubium vulgare is white horehound),MAP,True
+PGA Complex,,Pga (Polyglutamic Acid),,Onboarding review: 'Complex' suffix on the same active; both PGA rows score identically,MAP,True
+Turmeric Root Extract,,Turmeric Extract,,Onboarding review: named plant part to generic extract; turmeric extract is rhizome-derived,MAP,True
+Quercetin/Quercetinol,,Quercetin,,Onboarding review: slash denotes alternative naming of one flavonoid; domain expert approved Quercetin as the scoring ingredient,MAP,True
+Glacial Water,,Glacier Water,,Onboarding review: spelling/naming variant of the same material; 'Glacier Water' verified present in the scoring workbook,MAP,True

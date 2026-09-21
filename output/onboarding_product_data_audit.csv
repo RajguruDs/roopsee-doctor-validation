@@ -1,0 +1,26 @@
+product_id,canonical_product_id_v2,product_name,brand,category,field,issue,detail,classification
+Roop-02,Roop-02,Complete No-Stress Physical Sunscreen SPF 50+ PA++++,axis-Y,Sunscreen,mrp,missing,,DATA ISSUE
+Roop-02,Roop-02,Complete No-Stress Physical Sunscreen SPF 50+ PA++++,axis-Y,Sunscreen,selling_price,missing,,DATA ISSUE
+Roop-02,Roop-02,Complete No-Stress Physical Sunscreen SPF 50+ PA++++,axis-Y,Sunscreen,image_url,missing,,DATA ISSUE
+Roop-02,Roop-02,Complete No-Stress Physical Sunscreen SPF 50+ PA++++,axis-Y,Sunscreen,product_url,not a URL,AXIS-Y Complete No-Stress Physical Sunscreen V.3 | Mineral Sunscreen SPF 50+,DATA ISSUE
+Roop-14,Roop-14,The Derma Co 1% Hyaluronic Sunscreen Spf 50 Pa+++ Aqua Gel For Normal To Oily ... - In-Vivo tested(50g),The Derma Co,Sunscreen,selling_price,selling_price exceeds mrp,"mrp=499.0, selling_price=615.0",DATA ISSUE
+Roop-16,Roop-16,Dr.Althea 147 Barrier Cream (50 ml),Dr. althea,Moisturizer,selling_price,missing,,DATA ISSUE
+Roop-22,Roop-22,Beauty of Joseon Relief Sun : Rice + Probiotics [SPF50+ PA++++] 50ml,Beauty of joseon,Sunscreen,selling_price,selling_price exceeds mrp,"mrp=1500.0, selling_price=1570.0",DATA ISSUE
+Roop-24,Roop-24,Beauty of Joseon Glow Deep Serum: Rice + Arbutin [30ml],Beauty of joseon,Serum,selling_price,selling_price exceeds mrp,"mrp=1400.0, selling_price=1416.0",DATA ISSUE
+Roop-25,Roop-25,Beauty of Joseon Glow Serum (30ml) : Propolis+Niacinamide,Beauty of joseon,Serum,selling_price,selling_price exceeds mrp,"mrp=1400.0, selling_price=1490.0",DATA ISSUE
+Roop-26,Roop-26,Beauty of Joseon Green Plum Refreshing Cleanser(100ml),Beauty of joseon,Cleanser,selling_price,selling_price exceeds mrp,"mrp=1050.0, selling_price=1150.0",DATA ISSUE
+Roop-36,Roop-36,"Dot & Key Watermelon Cooling Sunscreen, SPF 50+ PA++++ In-Vivo Tested(50 g)",Dot & key,Sunscreen,product_url,not a URL,nykaa.com/dot-key-watermelon-hyaluronic-cooling-sunscreen-spf-50-pa/p/14072071?root=cav_pd,DATA ISSUE
+Roop-37,Roop-37,Dot & Key Blueberry Hydrate Barrier Repair Sunscreen SPF 50+ PA++++ In-Vivo Tested(50 g),Dot & key,Sunscreen,variant,missing,,DATA ISSUE
+Roop-37,Roop-37,Dot & Key Blueberry Hydrate Barrier Repair Sunscreen SPF 50+ PA++++ In-Vivo Tested(50 g),Dot & key,Sunscreen,mrp,missing,,DATA ISSUE
+Roop-45,Roop-45,The Face Shop Rice Water Bright Moisture Sunscreen SPF50+ PA++++,The Face Shop,Sunscreen,selling_price,selling_price exceeds mrp,"mrp=1550.0, selling_price=2279.0",DATA ISSUE
+Roop-46,Roop-46,The Face Shop Natural Sun Eco Super Perfect Sun Cream SPF 50+ PA++++,The Face Shop,Sunscreen,ingredients,missing,,DATA ISSUE
+Roop-52,Roop-52,CeraVe Moisturizing Lotion for Normal to Dry Skin with Ceramides & Hyaluronic Acid,CeraVe,Body Care,selling_price,selling_price exceeds mrp,"mrp=1359.0, selling_price=1755.0",DATA ISSUE
+Roop-55,Roop-55,Brinton UV Doux Blue Sunscreen,Uv Doux,Sunscreen,ingredients,missing,,DATA ISSUE
+Roop-68,Roop-68,Minimalist 2% Salicylic Acid + LHA Face Cleanser With Zinc For Reducing Sebum & Acne,Minimalist,Cleanser,ingredients,missing,,DATA ISSUE
+Roop-72,Roop-72,Be Bodywise 10% Urea Body Lotion With Ceramide For Very Dry & Flaky Skin,Be Bodywise,Body Care,ingredients,missing,,DATA ISSUE
+Roop-75,Roop-75,Be Bodywise Hyaluronic Acid Body Wash For Dry Skin - With 3 Essential Ceramides & Aloe Vera Extract,Be Bodywise,Body Care,selling_price,selling_price exceeds mrp,"mrp=399.0, selling_price=499.0",DATA ISSUE
+Roop-85,Roop-85,Venusia Max Intensive Moisturizing Lotion Normal To Dry Skin With 4D Hyaluronic + Polyglutamic Acid(300g),Venusia,Body Care,selling_price,selling_price exceeds mrp,"mrp=971.0, selling_price=1189.0",DATA ISSUE
+Roop-87,Roop-87,Minimalist Retinol 0.3% Face Serum(30ml),Minimalist,Serum,ingredients,missing,,DATA ISSUE
+Roop-91,Roop-91,"Chemist at Play Vitamin C Brightening Body Wash, with Glycolic Acid & Camu Camu, Fades Dark Spots",Chemist at play,Body Care,ingredients,missing,,DATA ISSUE
+Roop-91,Roop-91,"Chemist at Play Vitamin C Brightening Body Wash, with Glycolic Acid & Camu Camu, Fades Dark Spots",Chemist at play,Body Care,selling_price,selling_price exceeds mrp,"mrp=349.0, selling_price=599.0",DATA ISSUE
+Roop-93,Roop-93,"Chemist at Play 1% Salicylic Acid Acne Body Wash for Oily Skin, Treats Body Acne & Fades Acne marks(236ml)",Chemist at play,Body Care,selling_price,selling_price exceeds mrp,"mrp=399.0, selling_price=579.0",DATA ISSUE

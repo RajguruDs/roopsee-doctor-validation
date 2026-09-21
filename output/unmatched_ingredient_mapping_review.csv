@@ -1,0 +1,656 @@
+Unmatched Ingredient,Role,Mention Count,Product Count,Classification,Best Candidate Canonical Ingredient,Candidate Score,Mapping Basis,Confidence,Reason,Recommended Next Step
+Lavender Extract,Primary + Secondary,53,53,NOT_SAFE_TO_MAP,Lavender Essential Oil,0.632,Same source but different material,HIGH,The sheet holds lavender only as essential oil. An extract and an essential oil of the same plant are different materials with different irritancy.,DO_NOT_MAP
+Immortelle Extract,Primary + Secondary,34,34,NOT_SAFE_TO_MAP,Immortelle Sap-Like Extract,0.8,Same source but different material,HIGH,Four distinct immortelle preparations exist; none is the plain extract.,DO_NOT_MAP
+Rosemary Extract,Primary + Secondary,25,25,NOT_SAFE_TO_MAP,Rosemary Leaf Extract,0.865,Same source but different material,HIGH,The sheet has both a plain 'Rosemary' row and a leaf extract row; choosing either would be a guess.,DO_NOT_MAP
+Laminaria Extract,Primary + Secondary,22,22,NOT_SAFE_TO_MAP,Laminaria Japonica Extract,0.791,Same source but different material,HIGH,Three Laminaria species are listed separately; the raw name names no species.,DO_NOT_MAP
+Aminopropyl Ascorbyl Phosphate,Primary + Secondary,19,19,NOT_SAFE_TO_MAP,Sodium Ascorbyl Phosphate,0.727,Related chemical but not equivalent,HIGH,A different vitamin C derivative salt.,DO_NOT_MAP
+Cyclomethicone,Primary + Secondary,13,13,NOT_SAFE_TO_MAP,Dimethicone,0.72,Related chemical but not equivalent,HIGH,Cyclic versus linear silicone; different materials.,DO_NOT_MAP
+Glycol Stearate,Primary + Secondary,13,13,NOT_SAFE_TO_MAP,Glyceryl Stearate,0.875,Related chemical but not equivalent,HIGH,Glycol and glyceryl esters are different molecules.,DO_NOT_MAP
+Hydrogenated Olive Oil Unsaponifiables,Primary + Secondary,12,12,NOT_SAFE_TO_MAP,Olive Oil,0.383,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+Tripeptide-1,Primary + Secondary,11,11,NOT_SAFE_TO_MAP,Tripeptide,0.909,Related chemical but not equivalent,HIGH,"A numbered peptide is a specific sequence, not the generic 'Tripeptide'.",DO_NOT_MAP
+Olive Oil Derived Emulsifier,Primary + Secondary,10,10,NOT_SAFE_TO_MAP,Olive Oil,0.486,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+Palmitoyl Grape Seed Extract,Primary + Secondary,10,10,NOT_SAFE_TO_MAP,Grape Seed Extract,0.783,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+Soy Polypeptide,Primary,8,8,NOT_SAFE_TO_MAP,Polypeptide,0.846,Related chemical but not equivalent,HIGH,A specific named peptide cannot be scored as the generic peptide entry.,DO_NOT_MAP
+Olive Oil PEG-7 Esters,Primary + Secondary,7,7,NOT_SAFE_TO_MAP,Olive Oil,0.581,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+Squalane Dicaprylyl Ether,Primary,7,7,NOT_SAFE_TO_MAP,Squalane,0.485,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+Alpha-glucan Oligosaccharide,Secondary,6,6,NOT_SAFE_TO_MAP,Alpha-Glucan,0.6,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+E-ascorbic Acid,Primary + Secondary,6,6,NOT_SAFE_TO_MAP,Jasmonic Acid,0.714,No reliable equivalence,HIGH,Could be ethyl ascorbic acid or L-ascorbic acid; both exist separately.,DO_NOT_MAP
+7-Dehydrocholesterol,Primary,5,5,NOT_SAFE_TO_MAP,Cholesterol,0.71,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+Isostearic Acid,Primary,5,5,NOT_SAFE_TO_MAP,Stearic Acid,0.889,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+Palmitoyl Oligopeptide,Primary,5,5,NOT_SAFE_TO_MAP,Palmitoyl Tripeptide,0.857,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+Polyhydroxystearic Acid,Primary,5,5,NOT_SAFE_TO_MAP,Stearic Acid,0.686,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+Tocopheryl,Primary + Secondary,5,5,NOT_SAFE_TO_MAP,Tocopherol,0.9,Related chemical but not equivalent,HIGH,"Truncated name that could expand to Tocopherol or to Tocopheryl Acetate, which are separate rows.",DO_NOT_MAP
+Banana Extract,Primary + Secondary,4,4,NOT_SAFE_TO_MAP,Chandan Extract,0.828,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+Cetyl Palmitate,Secondary,4,4,NOT_SAFE_TO_MAP,Retinyl Palmitate,0.875,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+Gluconic Acid,Secondary,4,4,NOT_SAFE_TO_MAP,Glycolic Acid,0.846,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+Trehalosemethyl Trimethicone,Secondary,4,4,NOT_SAFE_TO_MAP,Trehalose,0.486,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+Triabsorb,Primary,4,4,NOT_SAFE_TO_MAP,Triasorb ,0.889,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+Acetyl Dipeptide 1 Cetyl Ester,Primary,3,3,NOT_SAFE_TO_MAP,Peptide,0.378,Related chemical but not equivalent,HIGH,A specific named peptide cannot be scored as the generic peptide entry.,DO_NOT_MAP
+Anhydroxylitol,Primary + Secondary,3,3,NOT_SAFE_TO_MAP,Xylitol,0.667,Related chemical but not equivalent,HIGH,"A dehydrated derivative, not xylitol.",DO_NOT_MAP
+Capryloyl Glycerin,Primary + Secondary,3,3,NOT_SAFE_TO_MAP,Capryloyl Glycine,0.914,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+Hepta Sodium Hexa Carboxymethyl Dipeptide-12,Primary + Secondary,3,3,NOT_SAFE_TO_MAP,Peptide,0.275,Related chemical but not equivalent,HIGH,A specific named peptide cannot be scored as the generic peptide entry.,DO_NOT_MAP
+Hydrogenated Rapeseed Oil,Secondary,3,3,NOT_SAFE_TO_MAP,Rapeseed Oil,0.649,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+Hydroxystearic Acid,Secondary,3,3,NOT_SAFE_TO_MAP,Stearic Acid,0.774,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+Oligopeptide- 68,Primary + Secondary,3,3,NOT_SAFE_TO_MAP,Oligopeptide-1,0.867,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+Olive Oil Peg-7 Esters,Secondary,3,3,NOT_SAFE_TO_MAP,Olive Oil,0.581,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+Orbignya Oleifera Seed Oil,Primary + Secondary,3,3,NOT_SAFE_TO_MAP,Moringa Oleifera Seed Oil,0.902,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+Palmitoyl Hexapeptide-14,Primary,3,3,NOT_SAFE_TO_MAP,Palmitoyl Hexapeptide-12,0.958,Related chemical but not equivalent,HIGH,"Peptide numbers differ, so these are different sequences.",DO_NOT_MAP
+Palmitoyl Tetrapeptide-10,Primary,3,3,NOT_SAFE_TO_MAP,Palmitoyl Tetrapeptide-7,0.939,Related chemical but not equivalent,HIGH,"Peptide numbers differ, so these are different sequences.",DO_NOT_MAP
+Shea Butter Ethyl Esters,Primary,3,3,NOT_SAFE_TO_MAP,Shea Butter,0.629,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+Sodium Acrylate,Secondary,3,3,NOT_SAFE_TO_MAP,Sodium Ascorbate,0.839,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+Vitamin E Derivative,Secondary,3,3,NOT_SAFE_TO_MAP,Vitamin E,0.621,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+C Triglycerides,Secondary,2,2,NOT_SAFE_TO_MAP,Acid/ Capric Triglyceride,0.7,No reliable equivalence,HIGH,Truncated fragment; the full ingredient name cannot be recovered safely.,DO_NOT_MAP
+Caprylic,Primary + Secondary,2,2,NOT_SAFE_TO_MAP,Caprylic Capric Triglyceride,0.444,No reliable equivalence,HIGH,Truncated fragment; the full ingredient name cannot be recovered safely.,DO_NOT_MAP
+Ceramide 1,Primary,2,2,NOT_SAFE_TO_MAP,Ceramide NP,0.857,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+Ceramide 2,Primary,2,2,NOT_SAFE_TO_MAP,Ceramide NP,0.857,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+Citronellol Alpha-isomethyl Ionone,Secondary,2,2,NOT_SAFE_TO_MAP,Alpha-Isomethyl Ionone,0.786,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+Cocamidopropyl Dimethylamine,Secondary,2,2,NOT_SAFE_TO_MAP,Cocamidopropyl Betaine,0.84,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+Cyclotetrapeptide-24 Aminocyclohexane Carboxylate,Primary + Secondary,2,2,NOT_SAFE_TO_MAP,Tetrapeptide,0.393,Related chemical but not equivalent,HIGH,A specific named peptide cannot be scored as the generic peptide entry.,DO_NOT_MAP
+Cymbopogon Schoenanthus Extract,Secondary,2,2,NOT_SAFE_TO_MAP,Cymbopogon Schoenanthus Oil,0.828,Same source but different material,HIGH,Extract versus oil of the same plant.,DO_NOT_MAP
+DM Water,Secondary,2,2,NOT_SAFE_TO_MAP,Sea Water,0.706,No reliable equivalence,HIGH,Truncated fragment; the full ingredient name cannot be recovered safely.,DO_NOT_MAP
+Dextrin Palmitate,Secondary,2,2,NOT_SAFE_TO_MAP,Retinyl Palmitate,0.824,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+Fractionated Coconut Oil,Primary,2,2,NOT_SAFE_TO_MAP,Coconut Oil,0.629,Related chemical but not equivalent,HIGH,"Fractionated coconut oil is caprylic/capric triglyceride, a different material.",DO_NOT_MAP
+Fructose And Glycerine,Secondary,2,2,NOT_SAFE_TO_MAP,Glycerin,0.533,No reliable equivalence,HIGH,The cell lists more than one ingredient; it should be split in the dataset.,DO_NOT_MAP
+Glycerin And Glyceryl Glucoside,Secondary,2,2,NOT_SAFE_TO_MAP,Glyceryl Glucoside,0.735,No reliable equivalence,HIGH,The cell lists more than one ingredient; it should be split in the dataset.,DO_NOT_MAP
+Glycol Distearate,Primary,2,2,NOT_SAFE_TO_MAP,Glyceryl Stearate,0.824,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+Hydrated Silica,Secondary,2,2,NOT_SAFE_TO_MAP,Silica,0.571,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+Hydrolyzed Cicer Seed Extract,Secondary,2,2,NOT_SAFE_TO_MAP,Hydrolyzed Rice Extract,0.846,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+Lactobacillus Ferment Lysate,Secondary,2,2,NOT_SAFE_TO_MAP,Lactococcus Ferment Lysate,0.852,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+Oligopeptide-68,Secondary,2,2,NOT_SAFE_TO_MAP,Oligopeptide-1,0.897,Related chemical but not equivalent,HIGH,"Peptide numbers differ, so these are different sequences.",DO_NOT_MAP
+Olus Oil,Secondary,2,2,NOT_SAFE_TO_MAP,Lotus Oil,0.824,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+Palmitoyl Tripeptide-8,Primary + Secondary,2,2,NOT_SAFE_TO_MAP,Palmitoyl Tripeptide-5,0.955,Related chemical but not equivalent,HIGH,"Peptide numbers differ, so these are different sequences.",DO_NOT_MAP
+Pentapeptide-34 Trifluoroacetate,Secondary,2,2,NOT_SAFE_TO_MAP,Peptide,0.359,Related chemical but not equivalent,HIGH,A specific named peptide cannot be scored as the generic peptide entry.,DO_NOT_MAP
+Peppermint Leaf Water,Secondary,2,2,NOT_SAFE_TO_MAP,Peppermint,0.645,Same source but different material,HIGH,A leaf water is not the plant entry.,DO_NOT_MAP
+Sesame Seed Oil Olive Fruit Oil,Secondary,2,2,NOT_SAFE_TO_MAP,Olive Fruit Oil,0.652,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+Sh-Oligopeptide-1,Primary,2,2,NOT_SAFE_TO_MAP,Oligopeptide-1,0.903,Related chemical but not equivalent,HIGH,"The 'sh-' prefix marks a synthetic human recombinant peptide, a distinct INCI entity.",DO_NOT_MAP
+Sh-Polypeptide-123,Primary + Secondary,2,2,NOT_SAFE_TO_MAP,Polypeptide,0.759,Related chemical but not equivalent,HIGH,"The 'sh-' prefix marks a synthetic human recombinant peptide, a distinct INCI entity.",DO_NOT_MAP
+Sunflower Sprout Extract,Primary,2,2,NOT_SAFE_TO_MAP,Sunflower Seed Extract,0.826,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+Synthetic Beeswax,Primary + Secondary,2,2,NOT_SAFE_TO_MAP,Beeswax,0.583,Related chemical but not equivalent,HIGH,"Synthetic beeswax is its own INCI material, not the natural wax.",DO_NOT_MAP
+Tranexamoyl dipeptide-23,Secondary,2,2,NOT_SAFE_TO_MAP,Peptide,0.452,Related chemical but not equivalent,HIGH,A specific named peptide cannot be scored as the generic peptide entry.,DO_NOT_MAP
+Trisiloxane,Primary + Secondary,2,2,NOT_SAFE_TO_MAP,Drometrizole Trisiloxane / Mexoryl XL,0.458,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+Xylitol Rhamnosis,Secondary,2,2,NOT_SAFE_TO_MAP,Xylitol,0.583,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+40 Hydrogenated Castor Oil,Secondary,1,1,NOT_SAFE_TO_MAP,Peg-60 Hydrogenated Castor Oil,0.893,Related chemical but not equivalent,HIGH,PEG-40 and PEG-60 differ in ethoxylation; explicitly not interchangeable.,DO_NOT_MAP
+Acetyl Dipeptide- 1 Cetyl Ester,Primary,1,1,NOT_SAFE_TO_MAP,Peptide,0.368,Related chemical but not equivalent,HIGH,A specific named peptide cannot be scored as the generic peptide entry.,DO_NOT_MAP
+Acetyl Dipeptide-1 Cetyl Ester,Secondary,1,1,NOT_SAFE_TO_MAP,Peptide,0.378,Related chemical but not equivalent,HIGH,A specific named peptide cannot be scored as the generic peptide entry.,DO_NOT_MAP
+Acetyl Glutamine,Secondary,1,1,NOT_SAFE_TO_MAP,acetyl glucosamine,0.882,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+Acetyl Heptapeptide-4,Primary,1,1,NOT_SAFE_TO_MAP,Acetyl Heptapeptide-9,0.952,Related chemical but not equivalent,HIGH,"Peptide numbers differ, so these are different sequences.",DO_NOT_MAP
+Acetyl Hexapeptide-1,Primary,1,1,NOT_SAFE_TO_MAP,Acetyl Hexapeptide-8,0.95,Related chemical but not equivalent,HIGH,"Peptide numbers differ, so these are different sequences.",DO_NOT_MAP
+Acetyl Hexapeptide-4,Primary,1,1,NOT_SAFE_TO_MAP,Acetyl Hexapeptide-8,0.95,Related chemical but not equivalent,HIGH,"Peptide numbers differ, so these are different sequences.",DO_NOT_MAP
+Acetyl Tetrapeptide-15,Primary,1,1,NOT_SAFE_TO_MAP,Acetyl Tetrapeptide-11,0.955,Related chemical but not equivalent,HIGH,"Peptide numbers differ, so these are different sequences.",DO_NOT_MAP
+Acetyl Tetrapeptide-9,Secondary,1,1,NOT_SAFE_TO_MAP,Acetyl Tetrapeptide-2,0.952,Related chemical but not equivalent,HIGH,"Peptide numbers differ, so these are different sequences.",DO_NOT_MAP
+Acetyl tetrapeptide-15,Primary,1,1,NOT_SAFE_TO_MAP,Acetyl Tetrapeptide-11,0.955,Related chemical but not equivalent,HIGH,"Peptide numbers differ, so these are different sequences.",DO_NOT_MAP
+AcetylDipeptide-1 Cetyl Ester,Secondary,1,1,NOT_SAFE_TO_MAP,Peptide,0.389,Related chemical but not equivalent,HIGH,A specific named peptide cannot be scored as the generic peptide entry.,DO_NOT_MAP
+Alpha Arbutin Ammonium,Primary,1,1,NOT_SAFE_TO_MAP,Alpha Arbutin,0.743,Related chemical but not equivalent,HIGH,"An ammonium salt of the active, not the active.",DO_NOT_MAP
+Aluminum Sucrose Octasulfate,Secondary,1,1,NOT_SAFE_TO_MAP,Sucrose,0.4,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+Anhydroxylitol And Xylitol,Secondary,1,1,NOT_SAFE_TO_MAP,Xylitol,0.424,No reliable equivalence,HIGH,The cell lists more than one ingredient; it should be split in the dataset.,DO_NOT_MAP
+Ascorbic Acid Polypeptide,Primary,1,1,NOT_SAFE_TO_MAP,Polypeptide,0.611,Related chemical but not equivalent,HIGH,A specific named peptide cannot be scored as the generic peptide entry.,DO_NOT_MAP
+Bala Root Extract,Secondary,1,1,NOT_SAFE_TO_MAP,Bael Root Extract,0.941,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+Bitter Orange Leaf,Secondary,1,1,NOT_SAFE_TO_MAP,Orange,0.5,Same source but different material,HIGH,Leaf material versus the generic fruit entry.,DO_NOT_MAP
+C Cholesterol/lanosterol Esters,Primary,1,1,NOT_SAFE_TO_MAP,Cholesterol,0.524,No reliable equivalence,HIGH,Truncated fragment; the full ingredient name cannot be recovered safely.,DO_NOT_MAP
+Caprylyl Methicone And Peg-12 Dimethicone,Primary,1,1,NOT_SAFE_TO_MAP,Dimethicone,0.423,No reliable equivalence,HIGH,The cell lists more than one ingredient; it should be split in the dataset.,DO_NOT_MAP
+Ceramide NS,Primary,1,1,NOT_SAFE_TO_MAP,Ceramide NP,0.909,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+Cetearyl,Secondary,1,1,NOT_SAFE_TO_MAP,Cetearyl Alcohol,0.667,No reliable equivalence,HIGH,Truncated fragment; the full ingredient name cannot be recovered safely.,DO_NOT_MAP
+Citrus Unshiu Peel Extract,Primary,1,1,NOT_SAFE_TO_MAP,Citrus Sinensis Peel Extract,0.852,Related chemical but not equivalent,HIGH,Different Citrus species.,DO_NOT_MAP
+Copper,Secondary,1,1,NOT_SAFE_TO_MAP,Copper Peptides,0.571,No reliable equivalence,HIGH,Truncated fragment; the full ingredient name cannot be recovered safely.,DO_NOT_MAP
+Cyclopentasiloxane And Dimethicone,Primary,1,1,NOT_SAFE_TO_MAP,Dimethicone,0.489,No reliable equivalence,HIGH,The cell lists more than one ingredient; it should be split in the dataset.,DO_NOT_MAP
+Cyclopentasiloxane And Dimethicone Crosspolymer,Primary,1,1,NOT_SAFE_TO_MAP,Dimethicone,0.379,No reliable equivalence,HIGH,The cell lists more than one ingredient; it should be split in the dataset.,DO_NOT_MAP
+Cyclotetrapeptide-24Aminocyclohexane Carboxylate,Primary,1,1,NOT_SAFE_TO_MAP,Tetrapeptide,0.4,Related chemical but not equivalent,HIGH,A specific named peptide cannot be scored as the generic peptide entry.,DO_NOT_MAP
+Date Extract,Primary,1,1,NOT_SAFE_TO_MAP,Oat Extract,0.87,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+Diethylhexyl,Secondary,1,1,NOT_SAFE_TO_MAP,Iscotrizinol / Diethylhexyl Butamido Triazone / Uvasorb HEB,0.338,No reliable equivalence,HIGH,Truncated fragment; the full ingredient name cannot be recovered safely.,DO_NOT_MAP
+Diethylhexyl Carbonate¸ Propanediol,Secondary,1,1,NOT_SAFE_TO_MAP,Propanediol,0.478,No reliable equivalence,HIGH,The cell lists more than one ingredient; it should be split in the dataset.,DO_NOT_MAP
+Diglucosyl Gallic Acid,Secondary,1,1,NOT_SAFE_TO_MAP,Gallic Acid,0.667,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+EGF Peptides,Primary,1,1,NOT_SAFE_TO_MAP,Peptides,0.8,Related chemical but not equivalent,HIGH,A specific named peptide cannot be scored as the generic peptide entry.,DO_NOT_MAP
+Ethoxydiglycol Ethylhexylglycerin,Secondary,1,1,NOT_SAFE_TO_MAP,Ethylhexylglycerin,0.706,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+Ethyl Alcohol,Secondary,1,1,NOT_SAFE_TO_MAP,Cetyl Alcohol,0.923,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+Fatty Acids,Secondary,1,1,NOT_SAFE_TO_MAP,Omega fatty acids,0.786,No reliable equivalence,HIGH,"Names a class of materials, not a specific ingredient.",DO_NOT_MAP
+Glyceryl Acrylate,Secondary,1,1,NOT_SAFE_TO_MAP,Glyceryl Stearate,0.824,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+Glyceryl Glucoside And Alpha Arbutin,Primary,1,1,NOT_SAFE_TO_MAP,Glyceryl Glucoside,0.667,No reliable equivalence,HIGH,The cell lists more than one ingredient; it should be split in the dataset.,DO_NOT_MAP
+Glyceryl Sesquistearate,Secondary,1,1,NOT_SAFE_TO_MAP,Glyceryl Stearate,0.85,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+Gold Peptide,Primary,1,1,NOT_SAFE_TO_MAP,Goldrella Peptide,0.828,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+Grape Fruit Water,Secondary,1,1,NOT_SAFE_TO_MAP,Grape Fruit Extract,0.778,Same source but different material,HIGH,Water and extract differ.,DO_NOT_MAP
+Heptapeptide-15 Palmitate,Secondary,1,1,NOT_SAFE_TO_MAP,Peptide,0.438,Related chemical but not equivalent,HIGH,A specific named peptide cannot be scored as the generic peptide entry.,DO_NOT_MAP
+Heptyl Glucoside,Secondary,1,1,NOT_SAFE_TO_MAP,Decyl Glucoside,0.839,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+Hydrogenated Rapeseed Oil Methylpropanediol,Primary,1,1,NOT_SAFE_TO_MAP,Rapeseed Oil,0.436,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+Hydrogeneated Olive Oil,Primary,1,1,NOT_SAFE_TO_MAP,Olive Oil,0.562,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+Lithium Magnesium Sodium Silicate,Secondary,1,1,NOT_SAFE_TO_MAP,Silica,0.308,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+Magnesium Aluminium Silicate,Secondary,1,1,NOT_SAFE_TO_MAP,Silica,0.353,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+Mallotus Japonicus Leaf Extract,Secondary,1,1,NOT_SAFE_TO_MAP,Mallotus Japonicus Bark Extract,0.903,Same source but different material,HIGH,Leaf versus bark.,DO_NOT_MAP
+Manicouagan Sea Mineral Clay,Secondary,1,1,NOT_SAFE_TO_MAP,Mineral Clay,0.6,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+Melon Extract,Secondary,1,1,NOT_SAFE_TO_MAP,Peony Extract,0.846,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+Minerals,Secondary,1,1,NOT_SAFE_TO_MAP,Mineral Oil,0.737,No reliable equivalence,HIGH,"Names a class of materials, not a specific ingredient.",DO_NOT_MAP
+Mushro0M Extract,Primary,1,1,NOT_SAFE_TO_MAP,Snow Mushroom Extract,0.811,Related chemical but not equivalent,HIGH,'Mushroom' is unspecified; the sheet lists only specific species.,DO_NOT_MAP
+Mushroom Extract,Secondary,1,1,NOT_SAFE_TO_MAP,Snow Mushroom Extract,0.865,Related chemical but not equivalent,HIGH,'Mushroom' is unspecified; the sheet lists only specific species.,DO_NOT_MAP
+Nargis Flower Extract,Primary,1,1,NOT_SAFE_TO_MAP,Daisy Flower Extract,0.878,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+Natural Humectants,Secondary,1,1,NOT_SAFE_TO_MAP,Natural betaine,0.727,No reliable equivalence,HIGH,"Names a class of materials, not a specific ingredient.",DO_NOT_MAP
+Nicotinoyl Dipeptide-23,Secondary,1,1,NOT_SAFE_TO_MAP,Peptide,0.467,Related chemical but not equivalent,HIGH,A specific named peptide cannot be scored as the generic peptide entry.,DO_NOT_MAP
+Nonapeptide,Primary,1,1,NOT_SAFE_TO_MAP,Peptide,0.778,Related chemical but not equivalent,HIGH,A specific named peptide cannot be scored as the generic peptide entry.,DO_NOT_MAP
+Oligopeptide-34,Secondary,1,1,NOT_SAFE_TO_MAP,Oligopeptide-1,0.897,Related chemical but not equivalent,HIGH,"Peptide numbers differ, so these are different sequences.",DO_NOT_MAP
+Oligopeptides,Primary,1,1,NOT_SAFE_TO_MAP,Oligopeptide-1,0.889,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+Olive Oil Derivatives,Primary,1,1,NOT_SAFE_TO_MAP,Olive Oil,0.6,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+Olive Oil Glycereth-8 Esters,Secondary,1,1,NOT_SAFE_TO_MAP,Olive Oil,0.486,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+Olive Oil Methyl Ester,Secondary,1,1,NOT_SAFE_TO_MAP,Olive Oil,0.581,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+Olive Oil Polyglyceryl-6 Esters,Primary,1,1,NOT_SAFE_TO_MAP,Olive Oil,0.45,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+Organic Acids,Secondary,1,1,NOT_SAFE_TO_MAP,Tannic Acid,0.75,No reliable equivalence,HIGH,"Names a class of materials, not a specific ingredient.",DO_NOT_MAP
+P-refinyl,Primary,1,1,NOT_SAFE_TO_MAP,Pro-retinol,0.7,No reliable equivalence,HIGH,Truncated fragment; the full ingredient name cannot be recovered safely.,DO_NOT_MAP
+Palmitoyl tetrapeptide-10,Primary,1,1,NOT_SAFE_TO_MAP,Palmitoyl Tetrapeptide-7,0.939,Related chemical but not equivalent,HIGH,"Peptide numbers differ, so these are different sequences.",DO_NOT_MAP
+Palmitoylpentapeptide-5,Primary,1,1,NOT_SAFE_TO_MAP,Palmitoyl Pentapeptide-4,0.936,Related chemical but not equivalent,HIGH,Different peptide number.,DO_NOT_MAP
+Papaya Fruit Enzyme,Primary,1,1,NOT_SAFE_TO_MAP,Papaya Fruit Extract,0.718,Same source but different material,HIGH,An isolated enzyme is not the extract.,DO_NOT_MAP
+Pear Fruit Extract,Secondary,1,1,NOT_SAFE_TO_MAP,Papaya Fruit Extract,0.842,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+Peg 40 Hydrogenated Castor Oil,Secondary,1,1,NOT_SAFE_TO_MAP,Peg-60 Hydrogenated Castor Oil,0.933,Related chemical but not equivalent,HIGH,PEG-40 and PEG-60 differ in ethoxylation; explicitly not interchangeable.,DO_NOT_MAP
+Phosphate,Primary,1,1,NOT_SAFE_TO_MAP,Sodium Ascorbyl Phosphate,0.529,No reliable equivalence,HIGH,Truncated fragment; the full ingredient name cannot be recovered safely.,DO_NOT_MAP
+Pisum Sativum Peptide,Primary,1,1,NOT_SAFE_TO_MAP,Peptide,0.5,Related chemical but not equivalent,HIGH,A specific named peptide cannot be scored as the generic peptide entry.,DO_NOT_MAP
+Polyglycerin-3,Secondary,1,1,NOT_SAFE_TO_MAP,Glycerin,0.727,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+Polyoxyl 40 Hydrogenated Castor Oil,Secondary,1,1,NOT_SAFE_TO_MAP,Peg-60 Hydrogenated Castor Oil,0.8,Related chemical but not equivalent,HIGH,PEG-40 and PEG-60 differ in ethoxylation; explicitly not interchangeable.,DO_NOT_MAP
+Potato Starch,Secondary,1,1,NOT_SAFE_TO_MAP,Potato Extract,0.741,Same source but different material,HIGH,Starch and extract are different materials.,DO_NOT_MAP
+Preservative,Secondary,1,1,NOT_SAFE_TO_MAP,Sodium Anisate (Natural Preservative),0.49,No reliable equivalence,HIGH,"Names a class of materials, not a specific ingredient.",DO_NOT_MAP
+Propylene Glycol Monolaurate,Secondary,1,1,NOT_SAFE_TO_MAP,Propylene Glycol,0.727,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+Propylene Glycol Stearate Se,Secondary,1,1,NOT_SAFE_TO_MAP,Propylene Glycol,0.727,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+Retinol And Polysorbate 20,Primary,1,1,NOT_SAFE_TO_MAP,Retinol,0.424,No reliable equivalence,HIGH,The cell lists more than one ingredient; it should be split in the dataset.,DO_NOT_MAP
+Rosa Centifolia Flower Juice,Secondary,1,1,NOT_SAFE_TO_MAP,Rosa Centifolia Flower Water,0.857,Same source but different material,HIGH,Juice and water are different materials.,DO_NOT_MAP
+Safflower Oil,Secondary,1,1,NOT_SAFE_TO_MAP,Starflower Oil,0.889,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+Salicylate,Secondary,1,1,NOT_SAFE_TO_MAP,Benzyl Salicylate,0.741,No reliable equivalence,HIGH,Truncated fragment; the full ingredient name cannot be recovered safely.,DO_NOT_MAP
+Sea Minerals,Secondary,1,1,NOT_SAFE_TO_MAP,Cooling Actives (Aloe + Sea Minerals + Cica),0.429,No reliable equivalence,HIGH,"Names a class of materials, not a specific ingredient.",DO_NOT_MAP
+Sh-pentapeptide-5,Primary,1,1,NOT_SAFE_TO_MAP,Heptapeptide-6,0.774,Related chemical but not equivalent,HIGH,"The 'sh-' prefix marks a synthetic human recombinant peptide, a distinct INCI entity.",DO_NOT_MAP
+Shea Butter Glycerides,Secondary,1,1,NOT_SAFE_TO_MAP,Shea Butter,0.667,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+Shorea Stenoptera Seed Butter,Secondary,1,1,NOT_SAFE_TO_MAP,Seed Butter,0.55,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+Silica Silylate,Secondary,1,1,NOT_SAFE_TO_MAP,Silica,0.571,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+Sodium Carboxymethyl Beta- Glucan,Secondary,1,1,NOT_SAFE_TO_MAP,Glucan,0.308,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+Sodium Hydrolyzed Potato Starch Dodecenylsuccinate,Primary,1,1,NOT_SAFE_TO_MAP,Potato,0.214,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+Sodium Lauroyl Aspartate,Secondary,1,1,NOT_SAFE_TO_MAP,Sodium Lauroyl Sarcosinate,0.84,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+Sodium Lauroyl Isethionate,Secondary,1,1,NOT_SAFE_TO_MAP,Sodium Lauroyl Methyl Isethionate,0.881,Related chemical but not equivalent,HIGH,The methyl variant is a different surfactant.,DO_NOT_MAP
+Soy Milk Peptide,Primary,1,1,NOT_SAFE_TO_MAP,Milk Peptides,0.828,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+Squalane For Long-lasting,Primary,1,1,NOT_SAFE_TO_MAP,Squalane,0.485,No reliable equivalence,HIGH,"Marketing prose captured as an ingredient; needs a dataset-side fix, not an alias.",DO_NOT_MAP
+Sunflower Seed Cake,Secondary,1,1,NOT_SAFE_TO_MAP,Sunflower Seed Wax,0.865,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+Tapioca Starch Polymethylsilsesquioxane,Primary,1,1,NOT_SAFE_TO_MAP,Tapioca Starch,0.528,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+Tocopherol Fragrance,Secondary,1,1,NOT_SAFE_TO_MAP,Tocopherol,0.667,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+Tocopheryl.,Secondary,1,1,NOT_SAFE_TO_MAP,Tocopherol,0.857,Related chemical but not equivalent,HIGH,"Truncated name that could expand to Tocopherol or to Tocopheryl Acetate, which are separate rows.",DO_NOT_MAP
+Triethoxysilyethyl Polydimethylsiloxyethyl Dimethicone,Secondary,1,1,NOT_SAFE_TO_MAP,Dimethicone,0.338,Related chemical but not equivalent,MEDIUM,"A related or similarly named ingredient exists, but equivalence could not be established; mapping would risk scoring a different substance.",DO_NOT_MAP
+Vitamin Ball Ascorbic Acid,Primary,1,1,NOT_SAFE_TO_MAP,Vitamin C / Ascorbic Acid,0.863,No reliable equivalence,HIGH,Corrupted text; the intended ingredient cannot be established.,DO_NOT_MAP
+Vitamin C And Vitamin E,Secondary,1,1,NOT_SAFE_TO_MAP,Vitamin E,0.562,No reliable equivalence,HIGH,The cell lists more than one ingredient; it should be split in the dataset.,DO_NOT_MAP
+While It Moisturizes,Primary,1,1,NOT_SAFE_TO_MAP,Skin Moisturizers,0.703,No reliable equivalence,HIGH,"Marketing prose captured as an ingredient; needs a dataset-side fix, not an alias.",DO_NOT_MAP
+White Lily,Primary,1,1,NOT_SAFE_TO_MAP,Water Lily,0.8,No reliable equivalence,HIGH,Different plants that merely look similar as strings.,DO_NOT_MAP
+Zinc Hydrolyzed Hyaluronate,Primary,1,1,NOT_SAFE_TO_MAP,Hydrolyzed Sodium Hyaluronate,0.786,Related chemical but not equivalent,HIGH,Different counter-ion.,DO_NOT_MAP
+sh-Oligopeptide-1,Primary,1,1,NOT_SAFE_TO_MAP,Oligopeptide-1,0.903,Related chemical but not equivalent,HIGH,"The 'sh-' prefix marks a synthetic human recombinant peptide, a distinct INCI entity.",DO_NOT_MAP
+Montmorillonite,Primary + Secondary,18,18,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Caprylyl Methicone,Primary + Secondary,10,10,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Isononyl Isononanoate,Primary + Secondary,10,10,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Myristyl Myristate,Secondary,10,10,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Cetyl Ethylhexanoate,Primary + Secondary,9,9,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Coconut Acid,Primary + Secondary,7,7,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Glyceryl Polyacrylate,Secondary,7,7,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Honeysuckle Flower Extract,Primary + Secondary,7,7,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Bamboo Water,Secondary,6,6,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Bladderwrack Extract,Secondary,6,6,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Collagen Amino Acids,Primary + Secondary,6,6,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Desamido Collagen,Primary + Secondary,6,6,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Diisopropyl Sebacate,Primary + Secondary,6,6,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Fructooligosaccharides,Primary + Secondary,6,6,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Retinyl Linoleate,Primary + Secondary,6,6,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Sweet Cherry Seed Oil,Primary + Secondary,6,6,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Bertholletia Excelsa Seed Oil,Primary + Secondary,5,5,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Calophyllum Inophyllum Seed Oil,Primary + Secondary,5,5,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Coconut Alkanes,Secondary,5,5,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Didecyldimonium Chloride,Primary + Secondary,5,5,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Distearyldimonium Chloride,Primary + Secondary,5,5,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Ethyl Macadamiate,Primary + Secondary,5,5,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Polybutene,Secondary,5,5,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Sodium Cetearyl Sulfate,Secondary,5,5,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Stearamide Amp,Primary + Secondary,5,5,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Aluminum Starch Octenylsuccinate,Secondary,4,4,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Astragalus Membranaceus Root Extract,Primary + Secondary,4,4,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Bitter Orange Flower Extract,Primary,4,4,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Coenzyme Q10,Primary + Secondary,4,4,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Cyclodextrin,Primary + Secondary,4,4,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Helianthus Annuus,Primary + Secondary,4,4,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Hydroxypropyltrimonium Hyaluronate,Primary + Secondary,4,4,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Lippia Citriodora Leaf Extract,Primary + Secondary,4,4,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Rumex Occidentalis,Secondary,4,4,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Wild Cherry Fruit Extract,Secondary,4,4,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+"10, 000 Ppb",Primary,3,3,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Ahnfeltia Concinna Extract,Secondary,3,3,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Ammonium Glycyrrhizate,Primary,3,3,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Anemarrhena Asphodeloides Root Extract,Primary + Secondary,3,3,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Arachidyl Alcohol,Secondary,3,3,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Ascorbyl Methylsilanol Pectinate,Primary + Secondary,3,3,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Beheneth-25,Secondary,3,3,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Chlorophyll,Primary + Secondary,3,3,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Dicaprylyl Ether,Primary + Secondary,3,3,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Diethylene Glycol Monoethyl Ether,Primary + Secondary,3,3,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Disodium Phosphate,Primary,3,3,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Ethyl Ascorbyl Ether,Primary,3,3,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Hordeum Vulgare - 5.0%,Secondary,3,3,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Horse Chestnut Escin,Secondary,3,3,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Hydrogenated Coco-glycerides,Primary + Secondary,3,3,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Hydroxyethyl Cellulose,Secondary,3,3,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Isodecyl Neopentanoate,Primary + Secondary,3,3,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Isopropyl Alcohol,Secondary,3,3,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Isopropyl Titanium Triisostearate,Primary,3,3,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Leptospermum Petersonii Oil,Secondary,3,3,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Myreth-3 Myristate,Secondary,3,3,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Octyldodecyl Stearoyl Stearate,Primary + Secondary,3,3,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Olea Europaea - 0.5%,Primary,3,3,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Paeonia Lactiflora Root Extract,Secondary,3,3,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Paeonia Suffruticosa Root Extract,Secondary,3,3,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Pinus Palustris Leaf Extract,Secondary,3,3,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Plant-based Squalane,Primary,3,3,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Soluble Elastin,Primary + Secondary,3,3,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Terpineol,Primary + Secondary,3,3,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Tetramethyl Acetyloctahydronaphthalenes,Secondary,3,3,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Tribehenin,Secondary,3,3,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Triethyl Citrate,Secondary,3,3,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Triheptanoin,Secondary,3,3,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Vp / Eicosane Copolymer,Primary,3,3,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+11% Hydrating Actives,Primary + Secondary,2,2,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+4.8% V,Primary,2,2,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Arachidyl Glucoside,Secondary,2,2,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Artemisia Absinthium Extract,Secondary,2,2,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Blue,Secondary,2,2,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Burnt Cane Sugar,Secondary,2,2,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+C Pareth -12,Primary,2,2,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+C12-C15 Alkyl Benzoate,Primary,2,2,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Caramel,Secondary,2,2,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Ceramide 6 II,Primary + Secondary,2,2,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Chlorella Vulgaris Extract,Secondary,2,2,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Cocoglycerides,Secondary,2,2,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Copper Palmitoyl Heptapeptide-14,Secondary,2,2,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Cystoseira Tamariscifolia Extract,Secondary,2,2,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Decyl Oleate,Primary,2,2,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Di-C12-13 Alkyl Malate,Secondary,2,2,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Diospyros Mespiliformis Leaf Extract,Primary,2,2,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Dipentaerythrityl,Secondary,2,2,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Dipeptide-15,Secondary,2,2,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Distarch Phosphate,Primary + Secondary,2,2,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Emulsifying Wax,Secondary,2,2,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Fucus Vesiculosus Extract,Primary + Secondary,2,2,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Gardenia Florida Fruit Extract,Secondary,2,2,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Glabridin,Secondary,2,2,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Glucose,Primary + Secondary,2,2,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Hexahydroxystearate,Secondary,2,2,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Hexyl Laurate,Secondary,2,2,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+High In Neuroscience,Secondary,2,2,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Hydrogenated Styrene Copolymer,Secondary,2,2,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Inulin,Secondary,2,2,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Kalanchoe Pinnata Leaf Extract,Secondary,2,2,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Kerala Lime,Secondary,2,2,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Kewda,Primary + Secondary,2,2,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Leontopodium Alpinum Callus Culture Extract,Secondary,2,2,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Linalyl Acetate,Secondary,2,2,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Linoleamidopropyl Pg Dimonium Chloride Phosphate,Secondary,2,2,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Maris Aqua,Secondary,2,2,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Melanin,Primary,2,2,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Melissa Officinalis Leaf Extract,Primary,2,2,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Methyl Dihydroabietate,Primary,2,2,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Milk -3.60%,Secondary,2,2,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Nonapeptide-1,Primary,2,2,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Octenidine Hcl,Secondary,2,2,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Octyl Stearate,Primary + Secondary,2,2,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Oleaeuropaea,Primary,2,2,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Palmitamidopropyltrimonium Chloride,Secondary,2,2,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Palmitoyl Grapevine Shoot Extract,Secondary,2,2,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Perseagratissima,Primary,2,2,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Potassium Myristate,Primary,2,2,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Propanediol Squalane,Primary,2,2,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Pueraria Lobata Root Extract,Secondary,2,2,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Pvm/ma Copolymer,Secondary,2,2,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Sanicula Europaea Extract,Secondary,2,2,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Santalum Album - 0.80%,Primary,2,2,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Sodium Acrylates Copolymer,Primary + Secondary,2,2,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Sodium Cocoyl Amino Acids,Secondary,2,2,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Sodium Gluconate And Sodium Hyaluronate,Primary,2,2,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Sodium Phosphate,Secondary,2,2,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Sphingomonas Ferment Extract,Primary + Secondary,2,2,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Thyme Leaf Extract,Primary,2,2,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Unique Bio-energy Complex™,Secondary,2,2,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Visible Pure 24K Gold,Primary + Secondary,2,2,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Vit B5,Secondary,2,2,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Vitis Vinifera - 7.5%,Primary,2,2,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+White Soft Paraffin,Primary + Secondary,2,2,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Zinc Pyrrolidone Carboxylic Acid,Secondary,2,2,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+"""water",Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+"1, 000 Ppb",Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+2% Claire Blanch II,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+2-Hexanediol (emolient),Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+24K Bio-gold Flakes,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+3% NMF Complex,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+4-N-Br,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+4-T-Butylcyclohexanol,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+4-t-Butylcyclohexanol,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Acetyl Cedrene,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Acnacidol BG,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Acrylamide Sodium Acrylate Copolymer,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Aczero,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Adds Glow,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Aegle Marmelos -1.00%,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Agar Agar,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Aligning With Vaseline's Heritage Of Inclusive,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Allium Cepa Bulb Extract,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Althaea Officinalis Root Extract,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Alum?nio Starch Octenylsuccinate,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Alumina,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Aluminium Hydroxide,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Aluminum Stearates,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Ammonium Polyacryloyldimethyl Taurate,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Anthemis Nobilis Flower Extract,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Anti-leukine 6,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Antibacterial,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Antioxidants,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Aquaphilus Dolomiae Extract,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Aquilaria Agallocha -1.0%,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Aquilariaagallocha - 1.0%,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Arctium Lappa Root Extract,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Ascorbic Acid. 30ml,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Bacopa Monnieri Extract,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Behenyl Behenate,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Bio-energy Complex Technology,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Bis Copper Acetate,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Bis- Ethylhexyloxyphenol Methoxyphenyl Triazine,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Bismuth Oxychloride,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Black Orchid,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Blue 1 (CI_COLOUR). B01865,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Blue Lotus,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Boron Nitride,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+C Pareth-12,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+CI_COLOUR (yellow 5),Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Calcium Citrate,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Caprooyl Tetrapeptide-3,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Carbonate,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Carboxymethyl Cellulose,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Centaurea Cyanus Flower Extract,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Centaurea Cyanus Flower Water,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Ceramide 11,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Cetomacrogol 1000,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Cocamidopropyl Pg-dimonium Chloride,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Coceth-7,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Cocos Nucifera,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Common Purslane Extract,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Copper Lysinate,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Copper Sulfate,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Cutibiome,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Cydonia Oblonga Leaf Extract,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+D.m.water,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Decapeptide-4,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Deep Hydration,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Deeply Moisturizes,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Denatonium Benzoate,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Dibutyl Lauroyl Glutamide,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Diethylhexyl Sodium Sulfosuccinate,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Diethylhexyl Succinate,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Diethylhexyl Syringylidenemalonate,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Diisopropylsebacate,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Dilinoleate Copolymer,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Disiloxane,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Dry Skin Polyphenols,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Dícaprylylether,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Eladi Tailam - 5.0%,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Elaeis Guineensis Oil,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Emollient,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Energy,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Epigallocatechin Gallate,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Ergothioneine,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Erythritol,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Ethyl Hexanediol,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Ethylcellulose,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Euphorbia Cerifera Wax,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Eusolex Uv-pearl OB-S,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Farnesyl Acetate,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Fermented Bamboo Shoot Bark Extract,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Found In Ghee,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Fructose,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Full Ingredients List: Aqua,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Ghk-cu,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Glyceryl Behenate,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Gold,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Guaiazulene,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Haldi Beads,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Haritaki Fruitextract - 2.0%,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Helianthus Annuus Seed Wax,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Herbal Emollients,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Homopolymer,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Hordeum Vulgare -1.00%,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Hydrating,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Hydrogenated Coconut Acid,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Hydrolyzed Glycosaminoglycans,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Hydroxymethoxyphenyl Decanone,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Hydroxypropyl Cellulose,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Hydroxypropyl Cyclodextrin,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Ichthammol,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Innovative,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Inula Helenium Extract,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Isobutane,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Isocetyl Stearate,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Jasmine Flower Water,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Kapurkachri,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Keeping It Hydrated And Soft,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+L Petroleum Resins,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Lauramide Dea,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Lauryl Laurate,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Light Liquid Paraffin,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Lime,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Lime Pearl,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Linoleamidopropyl PG Dimonium Chloride Phosphate,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Linum Usitatissimum Seed Oil,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Litsea Cubeba Fruit Oil,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Magnesium Stearate,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Marsh Mallow Leaf,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Mel/honey,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Melia Azadirachta Leaf Extract,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Menthyl PCA,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Mesua Ferrea - 1.0%,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Methyl Methacrylate Crosspolymer,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Methyl Trimethicone,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Methylheptyl Isostearate,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Myrciaria Dubia Fruit Extract,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Myristyl Glucoside,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Narcissuspoeticus - 0.5%,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Neo Heliopan Hydro,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Normalizes Keratinisation,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Octyldodecanolm Polyglyceryl-2 Triisostearate,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Octyldodeceth-25,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Octyldodecyl Myristate,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Octyldodecyl Xyloside,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Oldenlandia Diffusa Extract,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Olea Europaea -2.0%,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Oleaeuropaea - 0.5%,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Oleic,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Oleyl Adapalenate,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Osmogeline,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+PEG- 100 Stearate,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Palmitoyl Glycine,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Palmitoyl Isoleucine,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Panthenyl Triacetate,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Pantolactone,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Passiflora Edulis Seed Oil,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Peg- 1 Stearate,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Phaseolus Angularis Seed Extract,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Phenyl Trimethicone Blend,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Phenylpropanol,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Phenyltrimethicone,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Phyllostachys Nigra Leaf Extract,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Phytosteryl Isostearyl Dimer Dilinoleate,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Phytosteryl Macadamiate,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Pinus Densiflora Leaf Extract,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Plant-based Moisturisers,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Platinum Liquidum,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Pogostemon Cablin Oil,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Polycaprolactone,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Polydiethylsiloxane,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Polyester-7,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Polyether-1,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Polymethylsilsequioxane,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Polysaccharides,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Potassium Alum,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Potassium Cetyl,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Potassium Cetyl Phosphate,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Pro-vitamin B5,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Propylene Carbonate,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Protects Against Sun Damage,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Prunusarmeniaca - 10.0%,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Prunusarmeniaca - 14.0%,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Psiyetobutene,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Punicagranatum - 0.2%,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Pvp,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Rakhta Chandan,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Raw Cane Sugar,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Red 4 (CI_COLOUR),Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Reduces Signs Of Tired,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Rhussuccedanea Fruit Wax,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Rubus Idaeus Juice,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+SODIUM STEARATE,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+SPF 50+ PA,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Sanjeevani Infusion - 2.0%,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Saposhnikovia Divaricata Root Extract,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Sarcosine,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Seboclear Mp,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Silk Powder,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Skin Barrier Arginine,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Skin Conditioning Agent,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Sodium Acrylates,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Sodium Acrylates Crosspolymer 2,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Sodium Carbomer,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Sodium Collagen,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Sodium Metabisulphite,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Sodium Polyacryloyldimethyl Taurate,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Sodium Salicylate,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Soothes,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Soothes Irritation,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Stearyl Heptanoate,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Strengthens The Skin Barrier,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Structured Energized Water,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Styrene,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Succinoglycan,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Sucrose Cocoate,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Suncat MTA,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Sunflower Seed Oil Glycerides,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Sunflower Seed Oils And Rosemary Extract,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Sunflower Sprout Extract 2%,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+THYMOL,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Tamarindus Indica Extract,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Tazmann Pepper,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Tea Tree Flower,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Tetrasodium Iminodisuccinate,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Theobroma Coconut,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Thethanolamine Sodium Polyacrylate,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+This Advanced Formulation Enhances Moisture Retention,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Thyme Oil,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Treemoss Extract,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Triceteareth-4 Phosphate,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Trideceth-10,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Trideceth-6,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Trideceth-9,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Triethylcitrate,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Triethylhexanoin,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,Nearest name is only superficially similar; no genuine candidate exists.,NO_ACTION
+Tris Citrate,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Triticum Vulgare - 1.0%,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Triticum Vulgare -2.0%,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Triticum Vulgare Germ Oil,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Triticum Vulgare Starch,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Undecane And Tridecane,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Univul T150,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Usheer,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Uvinal A Plus,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Vegan Mung Mucin,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Viola Odorata Leaf Extract,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Vp/eicosene Copolymer,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Vp/hexadecene Copolymer,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Withania Somnifera -0.5%,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Xylitylglucoside,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Yashad Bhasma,Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Yellow 5 (CI_COLOUR),Secondary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Β-white,Primary,1,1,NO_CANDIDATE,,,No reliable equivalence,HIGH,"No comparable ingredient exists in the 1,734-name vocabulary.",NO_ACTION
+Lactobacillus,Primary + Secondary,5,5,REVIEW_REQUIRED,Lactobacillus Ferment (Milk Probiotic),0.51,Same source but different material,LOW,Names the organism; the canonical is a milk ferment.,REVIEW_MANUALLY
+Calamine,Primary + Secondary,4,4,REVIEW_REQUIRED,Calamine Clay,0.762,Same source but different material,MEDIUM,"Likely the same mineral, but the canonical adds a 'Clay' form.",REVIEW_MANUALLY
+Retinyl Propionate,Primary,4,4,REVIEW_REQUIRED,Vitamin A (Retinyl Propionate),0.75,Exact semantic equivalent,MEDIUM,"Two canonical rows carry this molecule in parentheses, so the target is ambiguous.",REVIEW_MANUALLY
+Acerola Fruit Extract,Secondary,3,3,REVIEW_REQUIRED,Acerola Cherry Extract,0.791,Botanical naming variation,MEDIUM,Acerola is the cherry; part naming differs.,REVIEW_MANUALLY
+Green Tea,Primary + Secondary,3,3,REVIEW_REQUIRED,Green Tea Oil,0.818,Same source but material unspecified,MEDIUM,"Names the source organism only; the sheet holds several materials from it (oil, extract, powder, water) with different scores.",REVIEW_MANUALLY
+Jasmine,Primary + Secondary,3,3,REVIEW_REQUIRED,Jasmine Oil,0.778,Same source but material unspecified,MEDIUM,"Names the source organism only; the sheet holds several materials from it (oil, extract, powder, water) with different scores.",REVIEW_MANUALLY
+Olea Europaea,Primary,3,3,REVIEW_REQUIRED,Olea Europaea (Olive) Fruit Oil,0.591,Botanical naming variation,MEDIUM,"Correct plant, but the dataset name does not say which material (oil, extract); several olive entries exist.",REVIEW_MANUALLY
+Saccharomyces Ferment Filtrate,Secondary,3,3,REVIEW_REQUIRED,Saccharomyces ferment,0.824,Same source but different material,LOW,"Same yeast, but filtrate/lysate/ferment are different preparations.",REVIEW_MANUALLY
+Vitamin B5,Primary + Secondary,3,3,REVIEW_REQUIRED,Panthenol,0.211,INCI/common-name equivalence,MEDIUM,"B5 is pantothenic acid; panthenol is its provitamin, not strictly the same molecule.",REVIEW_MANUALLY
+3-Propanediol,Secondary,2,2,REVIEW_REQUIRED,Propanediol,0.917,Chemical naming equivalence,MEDIUM,"Almost certainly a truncated '1,3-Propanediol', which is INCI Propanediol, but the name as written is malformed.",REVIEW_MANUALLY
+Ashwagandha,Secondary,2,2,REVIEW_REQUIRED,Ashwagandha Extract,0.733,Same source but material unspecified,MEDIUM,"Names the source organism only; the sheet holds several materials from it (oil, extract, powder, water) with different scores.",REVIEW_MANUALLY
+Avocado,Primary,2,2,REVIEW_REQUIRED,Avocado Oil,0.778,Same source but material unspecified,MEDIUM,"Names the source organism only; the sheet holds several materials from it (oil, extract, powder, water) with different scores.",REVIEW_MANUALLY
+Capsicum Annuum Fruit Extract,Primary,2,2,REVIEW_REQUIRED,Capsicum Extract,0.711,Botanical naming variation,MEDIUM,Binomial plus part vs the generic entry.,REVIEW_MANUALLY
+Ceramide III B,Primary,2,2,REVIEW_REQUIRED,Ceramide NP,0.72,Chemical naming equivalence,LOW,"'III B' denotes a specific grade, not plainly Ceramide 3.",REVIEW_MANUALLY
+Marigold,Secondary,2,2,REVIEW_REQUIRED,Marigold Extract,0.667,Same source but material unspecified,MEDIUM,"Names the source organism only; the sheet holds several materials from it (oil, extract, powder, water) with different scores.",REVIEW_MANUALLY
+Phytosteryl,Secondary,2,2,REVIEW_REQUIRED,Phytosterol,0.909,Chemical naming equivalence,LOW,'Phytosteryl' is the ester radical prefix; the entry looks truncated.,REVIEW_MANUALLY
+Prickly Pear Flower,Primary,2,2,REVIEW_REQUIRED,Prickly Pear Flower Extract,0.826,Same source but different material,LOW,Raw name gives no preparation.,REVIEW_MANUALLY
+Alcohol Denat.37% C Abyter,Primary,1,1,REVIEW_REQUIRED,Alcohol Denat.,0.7,Formatting variation,LOW,Begins with a real canonical ingredient but carries trailing concentration or marketing text; needs a data-side clean-up rather than an alias.,REVIEW_MANUALLY
+Algae Extract 1,Primary,1,1,REVIEW_REQUIRED,Algae Extract,0.929,Formatting variation,LOW,Trailing '1' is unexplained; may be a footnote marker or a grade.,REVIEW_MANUALLY
+Aloe Extract 5% W,Primary,1,1,REVIEW_REQUIRED,Aloe Extract,0.828,Formatting variation,LOW,Begins with a real canonical ingredient but carries trailing concentration or marketing text; needs a data-side clean-up rather than an alias.,REVIEW_MANUALLY
+Bacteria Horehound Extract,Secondary,1,1,REVIEW_REQUIRED,Horehound extract,0.791,Formatting variation,LOW,Unexplained 'Bacteria' prefix on an otherwise matching name.,REVIEW_MANUALLY
+Bamboo Vulgaris Extract,Secondary,1,1,REVIEW_REQUIRED,Bamboo Extract,0.757,Botanical naming variation,MEDIUM,Bambusa vulgaris; the sheet has both a generic and a species-specific bamboo row.,REVIEW_MANUALLY
+Black Grape Extract,Secondary,1,1,REVIEW_REQUIRED,Grape Extract,0.812,Botanical naming variation,LOW,A grape variety qualifier the generic entry may or may not represent.,REVIEW_MANUALLY
+Blueberry Seed Oil,Primary,1,1,REVIEW_REQUIRED,Upcycled Blueberry Seed Oil,0.8,Formatting variation,MEDIUM,"Only the sourcing word 'Upcycled' differs, but that is the sole blueberry seed oil row.",REVIEW_MANUALLY
+Butrospermum Parkii Butter,Secondary,1,1,REVIEW_REQUIRED,Shea Butter,0.541,Botanical naming variation,MEDIUM,Butyrospermum parkii is shea; both the raw name and the nearest canonical are misspelled.,REVIEW_MANUALLY
+Camellia Oleifera Seed Oil,Secondary,1,1,REVIEW_REQUIRED,Camellia Oil,0.632,Botanical naming variation,MEDIUM,Camellia oleifera seed oil is tea seed oil; the sheet's 'Camellia Oil' is unqualified.,REVIEW_MANUALLY
+Camellia Sinesis Leaf Extract,Secondary,1,1,REVIEW_REQUIRED,Camellia Extract,0.711,Botanical naming variation,MEDIUM,Misspelling of Camellia sinensis (tea); the sheet's tea entries are specific preparations.,REVIEW_MANUALLY
+Carrot Seed,Primary,1,1,REVIEW_REQUIRED,Carrot Seed Oil,0.846,Same source but material unspecified,MEDIUM,"Names the source organism only; the sheet holds several materials from it (oil, extract, powder, water) with different scores.",REVIEW_MANUALLY
+Chondrus Crispsus,Primary,1,1,REVIEW_REQUIRED,Chondrus Crispus Extract,0.78,Same source but material unspecified,MEDIUM,"Names the source organism only; the sheet holds several materials from it (oil, extract, powder, water) with different scores.",REVIEW_MANUALLY
+Cica Extract,Primary,1,1,REVIEW_REQUIRED,Centella Extract,0.714,INCI/common-name equivalence,MEDIUM,"'Cica' is shorthand for Centella, already used by an existing alias.",REVIEW_MANUALLY
+Citrus Paradisi Fruit Extract,Secondary,1,1,REVIEW_REQUIRED,Grapefruit Extract,0.638,Botanical naming variation,LOW,"Grapefruit, but the sheet holds both 'Grape Fruit Extract' and 'Grapefruit Extract' as separate rows, so the target is ambiguous.",REVIEW_MANUALLY
+Coconut,Primary,1,1,REVIEW_REQUIRED,Coconut Oil,0.778,Same source but material unspecified,MEDIUM,"Names the source organism only; the sheet holds several materials from it (oil, extract, powder, water) with different scores.",REVIEW_MANUALLY
+Coffee Bean Extract,Primary,1,1,REVIEW_REQUIRED,Coffee Extract,0.848,Botanical naming variation,MEDIUM,"Coffee extract is made from the bean, but the sheet does not say so explicitly.",REVIEW_MANUALLY
+Copper peptide-1 (ghk-cu),Primary,1,1,REVIEW_REQUIRED,Copper tripeptide,0.667,Chemical naming equivalence,MEDIUM,"GHK-Cu is copper tripeptide-1, which the project already aliases; naming differs enough to confirm.",REVIEW_MANUALLY
+Cucumber,Primary,1,1,REVIEW_REQUIRED,Cucumber Extract,0.667,Same source but material unspecified,MEDIUM,"Names the source organism only; the sheet holds several materials from it (oil, extract, powder, water) with different scores.",REVIEW_MANUALLY
+Dictyopteris Membranacea,Secondary,1,1,REVIEW_REQUIRED,Dictyopteris Membranacea Extract,0.857,Same source but material unspecified,MEDIUM,"Names the source organism only; the sheet holds several materials from it (oil, extract, powder, water) with different scores.",REVIEW_MANUALLY
+Geranium Robertianum Extract,Secondary,1,1,REVIEW_REQUIRED,Geranium extract,0.727,Botanical naming variation,LOW,A specific Geranium species vs the genus-level entry.,REVIEW_MANUALLY
+Ginger Root,Primary,1,1,REVIEW_REQUIRED,Ginger Root Oils,0.815,Same source but material unspecified,MEDIUM,"Names the source organism only; the sheet holds several materials from it (oil, extract, powder, water) with different scores.",REVIEW_MANUALLY
+Giycerin Shea Butter,Secondary,1,1,REVIEW_REQUIRED,Shea Butter,0.71,No reliable equivalence,LOW,"Two ingredients in one cell, one misspelled; should be split in the dataset.",REVIEW_MANUALLY
+Goat Milk,Primary,1,1,REVIEW_REQUIRED,Goat Milk Powder,0.72,Same source but material unspecified,MEDIUM,"Names the source organism only; the sheet holds several materials from it (oil, extract, powder, water) with different scores.",REVIEW_MANUALLY
+Graperuit Fruit Extract,Primary,1,1,REVIEW_REQUIRED,Grapefruit Extract,0.878,Botanical naming variation,LOW,"Grapefruit, but the sheet holds both 'Grape Fruit Extract' and 'Grapefruit Extract' as separate rows, so the target is ambiguous.",REVIEW_MANUALLY
+Hyaluronate,Primary,1,1,REVIEW_REQUIRED,Sodium Hyaluronate,0.759,Chemical naming equivalence,MEDIUM,Abbreviated/incomplete name; several hyaluronate salts exist in the sheet.,REVIEW_MANUALLY
+Hyperpigmentation And Melasma Oligopeptide-10,Primary,1,1,REVIEW_REQUIRED,Oligopeptide-10,0.5,Formatting variation,LOW,Begins with a real canonical ingredient but carries trailing concentration or marketing text; needs a data-side clean-up rather than an alias.,REVIEW_MANUALLY
+Iris Florentina Root Extract,Secondary,1,1,REVIEW_REQUIRED,Iris Root Extract,0.756,Botanical naming variation,MEDIUM,Species-level name vs the generic iris root entry.,REVIEW_MANUALLY
+Laminaria Japonica,Primary,1,1,REVIEW_REQUIRED,Laminaria Japonica Extract,0.818,Same source but material unspecified,MEDIUM,"Names the source organism only; the sheet holds several materials from it (oil, extract, powder, water) with different scores.",REVIEW_MANUALLY
+Lanolin,Secondary,1,1,REVIEW_REQUIRED,Lanolin Oil,0.778,Same source but material unspecified,MEDIUM,"Names the source organism only; the sheet holds several materials from it (oil, extract, powder, water) with different scores.",REVIEW_MANUALLY
+Orchid Extract,Secondary,1,1,REVIEW_REQUIRED,Orchid Flower Extract,0.8,Same source but different material,LOW,The canonical specifies the flower.,REVIEW_MANUALLY
+Pitera - Rich In Vitamins,Primary,1,1,REVIEW_REQUIRED,Pitera,0.387,Formatting variation,LOW,Begins with a real canonical ingredient but carries trailing concentration or marketing text; needs a data-side clean-up rather than an alias.,REVIEW_MANUALLY
+Saccharomyces Ferment Lysate Filtrate,Secondary,1,1,REVIEW_REQUIRED,Saccharomyces ferment,0.724,Same source but different material,LOW,"Same yeast, but filtrate/lysate/ferment are different preparations.",REVIEW_MANUALLY
+Sodium C -16 Olefin Sulfonate,Primary,1,1,REVIEW_REQUIRED,Sodium C14-16 Olefin Sulfonate,0.949,Formatting variation,MEDIUM,"Appears to be the same surfactant with '14' lost, but a missing carbon number cannot be assumed.",REVIEW_MANUALLY
+Sodium HA,Secondary,1,1,REVIEW_REQUIRED,Sodium Hyaluronate,0.667,Chemical naming equivalence,MEDIUM,Abbreviated/incomplete name; several hyaluronate salts exist in the sheet.,REVIEW_MANUALLY
+Spiraea Ulmaria Extract,Secondary,1,1,REVIEW_REQUIRED,Spiraea Ulmaria Flower Extract,0.868,Same source but different material,LOW,"Same plant, but the canonical specifies the flower and the raw name does not.",REVIEW_MANUALLY
+Sunflower Seed,Primary,1,1,REVIEW_REQUIRED,Sunflower,0.783,Same source but material unspecified,MEDIUM,"Names the source organism only; the sheet holds several materials from it (oil, extract, powder, water) with different scores.",REVIEW_MANUALLY
+Sweet Orange Extract,Primary,1,1,REVIEW_REQUIRED,Orange Extract,0.824,Botanical naming variation,MEDIUM,Sweet orange is Citrus sinensis; the generic 'Orange Extract' may cover it.,REVIEW_MANUALLY
+Theobroma Cacao Shell Extract,Primary,1,1,REVIEW_REQUIRED,Theobroma Cacao Extract,0.885,Same source but different material,LOW,Shell is a specific part; a generic cacao extract row exists but may not match the shell material.,REVIEW_MANUALLY
+Vetiveria Zizanioides Root Powder,Secondary,1,1,REVIEW_REQUIRED,Vetiver,0.35,Same source but different material,LOW,"Correct plant, but powder, water and extract are different materials and the canonical 'Vetiver' is unqualified.",REVIEW_MANUALLY
+Vetiveria Zizanioides Root Water,Secondary,1,1,REVIEW_REQUIRED,Vetiver,0.359,Same source but different material,LOW,"Correct plant, but powder, water and extract are different materials and the canonical 'Vetiver' is unqualified.",REVIEW_MANUALLY
+Vetiveria Zizanoides Root Extract,Primary,1,1,REVIEW_REQUIRED,Vetiver,0.35,Same source but different material,LOW,"Correct plant, but powder, water and extract are different materials and the canonical 'Vetiver' is unqualified.",REVIEW_MANUALLY
+Vitamin B3,Secondary,1,1,REVIEW_REQUIRED,Niacinamide,0.381,INCI/common-name equivalence,MEDIUM,Vitamin B3 is usually niacinamide in cosmetics but can mean niacin; the sheet has no 'Vitamin B3' row.,REVIEW_MANUALLY
+Vitamin E Oil,Primary,1,1,REVIEW_REQUIRED,Vitamin E,0.818,Same source but different material,MEDIUM,Vitamin E in an oil carrier; may or may not score as the pure vitamin.,REVIEW_MANUALLY
+Vitamin-B3,Secondary,1,1,REVIEW_REQUIRED,Niacinamide,0.381,INCI/common-name equivalence,MEDIUM,Vitamin B3 is usually niacinamide in cosmetics but can mean niacin; the sheet has no 'Vitamin B3' row.,REVIEW_MANUALLY
+Glyceryl Monostearate,Secondary,4,4,SAFE_TO_MAP,Glyceryl Stearate,0.895,Chemical naming equivalence,HIGH,Glyceryl monostearate is the INCI ingredient Glyceryl Stearate.,ADD_ALIAS
+Organic Shea Butter,Primary,3,3,SAFE_TO_MAP,Shea Butter,0.733,Formatting variation,HIGH,'Organic' is a sourcing claim; the material is the same.,ADD_ALIAS
+Vit E,Secondary,3,3,SAFE_TO_MAP,Vitamin E,0.714,Formatting variation,HIGH,Common abbreviation of the same vitamin.,ADD_ALIAS
+Acetyl Tetrapeptide_x001D_2,Secondary,2,2,SAFE_TO_MAP,Acetyl Tetrapeptide-2,0.833,Formatting variation,HIGH,A control character has replaced the hyphen; the peptide number is unchanged.,ADD_ALIAS
+Ceramide III,Primary,2,2,SAFE_TO_MAP,Ceramide NP,0.783,Chemical naming equivalence,MEDIUM,"Ceramide III is Ceramide 3, the former name of Ceramide NP; the project already maps 'ceramide 3' to this entry.",ADD_ALIAS
+Ghee - 10.00%,Secondary,2,2,SAFE_TO_MAP,Ghee,0.471,Formatting variation,HIGH,Removing a trailing concentration/quantity annotation leaves a name the existing resolver already matches.,ADD_ALIAS
+Glycerol,Primary + Secondary,2,2,SAFE_TO_MAP,Glycerin,0.75,Chemical naming equivalence,HIGH,Glycerol and glycerin are two names for the same molecule.,ADD_ALIAS
+Glycine Soja Germ Extract,Primary,2,2,SAFE_TO_MAP,Soy Germ Extract,0.732,Botanical naming variation,HIGH,Glycine soja is soy; same part (germ) and same preparation.,ADD_ALIAS
+Honey - 0.1%,Primary,2,2,SAFE_TO_MAP,Honey,0.588,Formatting variation,HIGH,Removing a trailing concentration/quantity annotation leaves a name the existing resolver already matches.,ADD_ALIAS
+Honey - 0.5%,Primary,2,2,SAFE_TO_MAP,Honey,0.588,Formatting variation,HIGH,Removing a trailing concentration/quantity annotation leaves a name the existing resolver already matches.,ADD_ALIAS
+Honey-1.0%,Primary,2,2,SAFE_TO_MAP,Honey,0.667,Formatting variation,HIGH,Removing a trailing concentration/quantity annotation leaves a name the existing resolver already matches.,ADD_ALIAS
+Menthol Crystals,Secondary,2,2,SAFE_TO_MAP,Menthol,0.609,Formatting variation,MEDIUM,'Crystals' names the physical form of the same substance.,ADD_ALIAS
+Mixed Tocopherol,Secondary,2,2,SAFE_TO_MAP,Tocopherol,0.769,Chemical naming equivalence,MEDIUM,'Mixed tocopherols' is the INCI ingredient Tocopherol.,ADD_ALIAS
+Sodium Laureth Sulphate,Secondary,2,2,SAFE_TO_MAP,Sodium Laureth Sulfate / SLES,0.808,Formatting variation,HIGH,British spelling of sulfate; identical substance.,ADD_ALIAS
+1% Niacinamdide,Secondary,1,1,SAFE_TO_MAP,Niacinamide,0.846,Formatting variation,HIGH,"Misspelling plus a concentration prefix; no 1% row exists, so the base row applies.",ADD_ALIAS
+3-O-EthylAscorbic Acid (vitamin C,Primary,1,1,SAFE_TO_MAP,3-O-Ethyl Ascorbic Acid,0.786,Formatting variation,HIGH,Missing space and a truncated parenthesis; same molecule.,ADD_ALIAS
+Alpha Bisabolol,Primary,1,1,SAFE_TO_MAP,Bisabolol,0.75,Chemical naming equivalence,MEDIUM,Alpha-bisabolol is the isomer sold as cosmetic bisabolol.,ADD_ALIAS
+Amla Fruitextract - 2.0%,Secondary,1,1,SAFE_TO_MAP,Amla Extract,0.667,Formatting variation,HIGH,Removing a trailing concentration/quantity annotation leaves a name the existing resolver already matches.,ADD_ALIAS
+Apple Fruit Water,Secondary,1,1,SAFE_TO_MAP,Pyrus Malus (Apple) Fruit Water,0.708,INCI/common-name equivalence,HIGH,Common name of the same INCI entry; identical material.,ADD_ALIAS
+Coconutoil - 15.0%,Primary,1,1,SAFE_TO_MAP,Coconut Oil,0.69,Formatting variation,HIGH,Removing a trailing concentration/quantity annotation leaves a name the existing resolver already matches.,ADD_ALIAS
+Corn Starch - 89.0%,Primary,1,1,SAFE_TO_MAP,Cornstarch (Zea Mays),0.6,Formatting variation,HIGH,Removing a trailing concentration/quantity annotation leaves a name the existing resolver already matches.,ADD_ALIAS
+Corn Starch -88.0%,Secondary,1,1,SAFE_TO_MAP,Cornstarch (Zea Mays),0.564,Formatting variation,HIGH,Removing a trailing concentration/quantity annotation leaves a name the existing resolver already matches.,ADD_ALIAS
+Corn Starch -88.5%,Secondary,1,1,SAFE_TO_MAP,Cornstarch (Zea Mays),0.564,Formatting variation,HIGH,Removing a trailing concentration/quantity annotation leaves a name the existing resolver already matches.,ADD_ALIAS
+Cornstarch - 89.0%,Primary,1,1,SAFE_TO_MAP,Cornstarch (Zea Mays),0.615,Formatting variation,HIGH,Removing a trailing concentration/quantity annotation leaves a name the existing resolver already matches.,ADD_ALIAS
+Glicerina,Primary,1,1,SAFE_TO_MAP,Glycerin,0.824,INCI/common-name equivalence,HIGH,Portuguese/Spanish name for glycerin; same single substance.,ADD_ALIAS
+Honey - 1.5%,Primary,1,1,SAFE_TO_MAP,Honey,0.588,Formatting variation,HIGH,Removing a trailing concentration/quantity annotation leaves a name the existing resolver already matches.,ADD_ALIAS
+Honey** - 0.5%,Secondary,1,1,SAFE_TO_MAP,Honey,0.526,Formatting variation,HIGH,Removing a trailing concentration/quantity annotation leaves a name the existing resolver already matches.,ADD_ALIAS
+Human Adipocyte Conditioned Media Extract,Primary,1,1,SAFE_TO_MAP,Stem Cells (Human Adipocyte Conditioned Media Extract),0.863,Exact semantic equivalent,HIGH,The raw name is exactly the parenthetical INCI name of this canonical entry.,ADD_ALIAS
+Hyaluronic Complex,Primary,1,1,SAFE_TO_MAP,Hyaluronic Acid Complex,0.878,Formatting variation,HIGH,Same name with the word 'Acid' omitted.,ADD_ALIAS
+Natural Yuzu Extract,Secondary,1,1,SAFE_TO_MAP,Yuzu Extract,0.75,Formatting variation,HIGH,"'Natural' is a marketing qualifier, not a different material.",ADD_ALIAS
+Oatmealpowder - 5.0%,Secondary,1,1,SAFE_TO_MAP,Oatmeal Powder (Hordeum Vulgare),0.577,Formatting variation,HIGH,Removing a trailing concentration/quantity annotation leaves a name the existing resolver already matches.,ADD_ALIAS
+Passiflora Edulis Fruit Extract,Secondary,1,1,SAFE_TO_MAP,Passion Fruit Extract,0.769,Botanical naming variation,HIGH,"Passiflora edulis is passion fruit; same plant, same part, same preparation.",ADD_ALIAS
+Sodium Benzoate - Q.S,Secondary,1,1,SAFE_TO_MAP,Sodium Benzoate,0.833,Formatting variation,HIGH,Removing a trailing concentration/quantity annotation leaves a name the existing resolver already matches.,ADD_ALIAS
+Sodium Lauryl Ether Sulphate,Secondary,1,1,SAFE_TO_MAP,Sodium Laureth Sulfate / SLES,0.737,Chemical naming equivalence,HIGH,'Lauryl ether sulphate' is the expanded form of 'laureth sulfate'.,ADD_ALIAS
+Veg Squalane,Primary,1,1,SAFE_TO_MAP,Vegetable Squalane,0.8,Formatting variation,HIGH,'Veg' is an abbreviation of 'Vegetable'.,ADD_ALIAS
+Vegan Ceramide NP,Primary,1,1,SAFE_TO_MAP,Ceramide NP,0.786,Formatting variation,HIGH,'Vegan' describes sourcing; Ceramide NP is the same molecule.,ADD_ALIAS

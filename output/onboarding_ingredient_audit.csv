@@ -1,0 +1,204 @@
+Raw Ingredient,Product Count,Primary/Secondary,Candidate Canonical Ingredient,Mapping Basis,Decision,Reason,Resolution Status,Safe To Map,Domain Review Required,Remains Unresolved,Is Excluded,Products
+Melanin,1,Primary,,EXCLUDED,EXCLUDED,"On the hard exclusion list; never mapped, never scored.",EXCLUDED,False,False,False,True,Roop-55
+Glycerin,27,Primary/Secondary,Glycerin,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-09; Roop-10; Roop-26; Roop-28; Roop-31; Roop-33; Roop-34; Roop-47; Roop-48; Roop-49; Roop-50; Roop-52; Roop-55; Roop-65; Roop-66; Roop-69; Roop-71; Roop-72; Roop-73; Roop-75; Roop-76; Roop-77; Roop-78; Roop-84; Roop-85; Roop-86; Roop-92
+Niacinamide,22,Primary/Secondary,Niacinamide,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-08; Roop-13; Roop-14; Roop-15; Roop-20; Roop-22; Roop-24; Roop-27; Roop-29; Roop-41; Roop-48; Roop-49; Roop-51; Roop-54; Roop-57; Roop-59; Roop-65; Roop-80; Roop-81; Roop-91; Roop-92; Roop-94
+Panthenol,21,Primary/Secondary,Panthenol,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-06; Roop-07; Roop-13; Roop-15; Roop-17; Roop-19; Roop-20; Roop-23; Roop-24; Roop-29; Roop-39; Roop-41; Roop-48; Roop-49; Roop-56; Roop-58; Roop-59; Roop-69; Roop-77; Roop-83; Roop-88
+Sodium Hyaluronate,20,Primary/Secondary,Sodium Hyaluronate,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-01; Roop-02; Roop-06; Roop-07; Roop-08; Roop-12; Roop-18; Roop-19; Roop-20; Roop-25; Roop-30; Roop-36; Roop-37; Roop-59; Roop-76; Roop-78; Roop-79; Roop-92; Roop-93; Roop-94
+Cocamidopropyl Betaine,11,Secondary,Cocamidopropyl Betaine,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-10; Roop-11; Roop-28; Roop-65; Roop-68; Roop-69; Roop-70; Roop-74; Roop-90; Roop-91; Roop-93
+Uvinul A Plus,11,Secondary,Diethylamino Hydroxybenzoyl Hexyl Benzoate / DHHB / Uvinul A Plus,SAFE_NORMALIZATION,SAFE_TO_MAP,"Deterministic normalisation: case, spacing, punctuation, slash chain, parenthetical, plural, percentage or reviewed alias.",MAPPED,True,False,False,False,Roop-13; Roop-21; Roop-22; Roop-23; Roop-35; Roop-36; Roop-37; Roop-45; Roop-53; Roop-57; Roop-95
+Ceramide NP,10,Primary/Secondary,Ceramide NP,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-05; Roop-15; Roop-16; Roop-23; Roop-30; Roop-39; Roop-59; Roop-81; Roop-82; Roop-94
+Betaine,9,Secondary,Betaine,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-06; Roop-07; Roop-08; Roop-16; Roop-30; Roop-47; Roop-59; Roop-66; Roop-83
+Uvinul T150,9,Secondary,Ethylhexyl Triazone / Uvinul T150,SAFE_NORMALIZATION,SAFE_TO_MAP,"Deterministic normalisation: case, spacing, punctuation, slash chain, parenthetical, plural, percentage or reviewed alias.",MAPPED,True,False,False,False,Roop-13; Roop-20; Roop-22; Roop-23; Roop-34; Roop-35; Roop-36; Roop-37; Roop-57
+Allantoin,8,Secondary,Allantoin,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-03; Roop-06; Roop-07; Roop-08; Roop-11; Roop-27; Roop-47; Roop-83
+Centella Asiatica,8,Primary/Secondary,Centella Asiatica,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-03; Roop-04; Roop-05; Roop-15; Roop-18; Roop-19; Roop-25; Roop-73
+Tinosorb S,8,Secondary,Bemotrizinol / BEMT / Tinosorb S,SAFE_NORMALIZATION,SAFE_TO_MAP,"Deterministic normalisation: case, spacing, punctuation, slash chain, parenthetical, plural, percentage or reviewed alias.",MAPPED,True,False,False,False,Roop-09; Roop-34; Roop-35; Roop-36; Roop-45; Roop-53; Roop-55; Roop-95
+Ceramide Complex,7,Primary/Secondary,Ceramide Complex,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-29; Roop-37; Roop-41; Roop-72; Roop-90; Roop-92; Roop-93
+Hyaluronic Acid,7,Primary/Secondary,Hyaluronic Acid,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-16; Roop-29; Roop-39; Roop-50; Roop-52; Roop-54; Roop-82
+Shea Butter,7,Primary/Secondary,Shea Butter,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-30; Roop-66; Roop-72; Roop-85; Roop-86; Roop-88; Roop-92
+Hyaluronic Acid Complex,6,Primary/Secondary,Hyaluronic Acid Complex,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-13; Roop-57; Roop-58; Roop-75; Roop-81; Roop-88
+Sodium Lauroyl Sarcosinate,6,Secondary,Sodium Lauroyl Sarcosinate,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-51; Roop-65; Roop-74; Roop-75; Roop-90; Roop-91
+Sodium Methyl Cocoyl Taurate,6,Secondary,Sodium Methyl Cocoyl Taurate,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-04; Roop-10; Roop-40; Roop-51; Roop-69; Roop-82
+Squalane,6,Primary/Secondary,Squalane,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-02; Roop-05; Roop-16; Roop-81; Roop-87; Roop-89
+Avobenzone,5,Secondary,Avobenzone,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-14; Roop-20; Roop-37; Roop-46; Roop-54
+Dimethicone,5,Primary/Secondary,Dimethicone,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-21; Roop-53; Roop-84; Roop-86; Roop-95
+Octinoxate,5,Secondary,Octinoxate / Ethylhexyl Methoxycinnamate / OMC,SAFE_NORMALIZATION,SAFE_TO_MAP,"Deterministic normalisation: case, spacing, punctuation, slash chain, parenthetical, plural, percentage or reviewed alias.",MAPPED,True,False,False,False,Roop-09; Roop-21; Roop-45; Roop-46; Roop-95
+Sodium Cocoyl Isethionate,5,Secondary,Sodium Cocoyl Isethionate (SCI),SAFE_NORMALIZATION,SAFE_TO_MAP,"Deterministic normalisation: case, spacing, punctuation, slash chain, parenthetical, plural, percentage or reviewed alias.",MAPPED,True,False,False,False,Roop-04; Roop-26; Roop-40; Roop-48; Roop-82
+Vitamin E,5,Primary/Secondary,Vitamin E,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-14; Roop-35; Roop-49; Roop-71; Roop-73
+Zinc Oxide,5,Secondary,Zinc Oxide,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-02; Roop-12; Roop-53; Roop-54; Roop-55
+1% Salicylic Acid,4,Primary,Salicylic Acid 1%,SAFE_NORMALIZATION,SAFE_TO_MAP,"Deterministic normalisation: case, spacing, punctuation, slash chain, parenthetical, plural, percentage or reviewed alias.",MAPPED,True,False,False,False,Roop-70; Roop-74; Roop-90; Roop-93
+2% Salicylic Acid,4,Primary,Salicylic Acid 2%,SAFE_NORMALIZATION,SAFE_TO_MAP,"Deterministic normalisation: case, spacing, punctuation, slash chain, parenthetical, plural, percentage or reviewed alias.",MAPPED,True,False,False,False,Roop-51; Roop-65; Roop-68; Roop-76
+Aloe Vera Extract,4,Primary/Secondary,Aloe Vera,SAFE_NORMALIZATION,SAFE_TO_MAP,"Deterministic normalisation: case, spacing, punctuation, slash chain, parenthetical, plural, percentage or reviewed alias.",MAPPED,True,False,False,False,Roop-58; Roop-70; Roop-71; Roop-73
+Centella Asiatica Extract,4,Primary/Secondary,Centella Extract,SAFE_NORMALIZATION,SAFE_TO_MAP,"Deterministic normalisation: case, spacing, punctuation, slash chain, parenthetical, plural, percentage or reviewed alias.",MAPPED,True,False,False,False,Roop-56; Roop-57; Roop-58; Roop-78
+Cholesterol,4,Secondary,Cholesterol,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-05; Roop-29; Roop-50; Roop-52
+Rice Bran Water,4,Primary/Secondary,Rice Bran Water,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-17; Roop-24; Roop-41; Roop-81
+Rice Extract,4,Primary/Secondary,Rice Extract,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-22; Roop-28; Roop-30; Roop-41
+Tinosorb M,4,Secondary,Bisoctrizole / MBBT / Tinosorb M,SAFE_NORMALIZATION,SAFE_TO_MAP,"Deterministic normalisation: case, spacing, punctuation, slash chain, parenthetical, plural, percentage or reviewed alias.",MAPPED,True,False,False,False,Roop-13; Roop-21; Roop-22; Roop-57
+Adenosine,3,Secondary,Adenosine,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-07; Roop-27; Roop-94
+Betaine Salicylate,3,Primary,Betaine Salicylate,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-11; Roop-25; Roop-38
+Caprylic/Capric Triglyceride,3,Secondary,Caprylic/Capric Triglyceride,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-52; Roop-66; Roop-89
+Ceramides,3,Primary,Ceramides,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-50; Roop-51; Roop-52
+Cocamidopropyl Hydroxysultaine,3,Secondary,Cocamidopropyl Hydroxysultaine,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-26; Roop-51; Roop-75
+Coco-Glucoside,3,Secondary,Coco-Glucoside,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-65; Roop-70; Roop-74
+Decyl Glucoside,3,Secondary,Decyl Glucoside,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-68; Roop-75; Roop-93
+Ensulizole,3,Secondary,Ensulizole / Phenylbenzimidazole Sulfonic Acid,SAFE_NORMALIZATION,SAFE_TO_MAP,"Deterministic normalisation: case, spacing, punctuation, slash chain, parenthetical, plural, percentage or reviewed alias.",MAPPED,True,False,False,False,Roop-09; Roop-14; Roop-46
+Green Tea Extract,3,Primary/Secondary,Green Tea Extract,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-02; Roop-26; Roop-31
+Hydrolyzed Hyaluronic Acid,3,Primary,Hydrolyzed Hyaluronic Acid,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-17; Roop-27; Roop-82
+Licorice Root Extract,3,Primary,Licorice Extract,SAFE_NORMALIZATION,SAFE_TO_MAP,"Deterministic normalisation: case, spacing, punctuation, slash chain, parenthetical, plural, percentage or reviewed alias.",MAPPED,True,False,False,False,Roop-03; Roop-19; Roop-46
+Madecassoside,3,Secondary,Madecassoside,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-15; Roop-17; Roop-56
+Petrolatum,3,Secondary,Petrolatum,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-49; Roop-50; Roop-66
+Propylene Glycol,3,Primary/Secondary,Propylene Glycol,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-84; Roop-85; Roop-95
+Sodium Lauroyl Methyl Isethionate,3,Secondary,Sodium Lauroyl Methyl Isethionate,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-11; Roop-68; Roop-90
+Titanium Dioxide,3,Secondary,Titanium Dioxide,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-12; Roop-54; Roop-55
+Tocopherol,3,Primary/Secondary,Tocopherol,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-12; Roop-34; Roop-43
+0.5% Salicylic Acid,2,Primary,Salicylic Acid 0.5%,SAFE_NORMALIZATION,SAFE_TO_MAP,"Deterministic normalisation: case, spacing, punctuation, slash chain, parenthetical, plural, percentage or reviewed alias.",MAPPED,True,False,False,False,Roop-10; Roop-32
+10% Niacinamide,2,Primary,Niacinamide 10%,SAFE_NORMALIZATION,SAFE_TO_MAP,"Deterministic normalisation: case, spacing, punctuation, slash chain, parenthetical, plural, percentage or reviewed alias.",MAPPED,True,False,False,False,Roop-39; Roop-71
+2% Niacinamide,2,Primary,Niacinamide 2%,SAFE_NORMALIZATION,SAFE_TO_MAP,"Deterministic normalisation: case, spacing, punctuation, slash chain, parenthetical, plural, percentage or reviewed alias.",MAPPED,True,False,False,False,Roop-02; Roop-25
+3-O-Ethyl Ascorbic Acid,2,Primary/Secondary,3-O-Ethyl Ascorbic Acid,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-56; Roop-71
+5% Niacinamide,2,Primary,Niacinamide 5%,SAFE_NORMALIZATION,SAFE_TO_MAP,"Deterministic normalisation: case, spacing, punctuation, slash chain, parenthetical, plural, percentage or reviewed alias.",MAPPED,True,False,False,False,Roop-01; Roop-66
+Aloe Vera,2,Primary,Aloe Vera,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-36; Roop-84
+Alpha Arbutin,2,Primary/Secondary,Alpha Arbutin,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-80; Roop-91
+Beta-Glucan,2,Secondary,Beta-Glucan Complex,SAFE_NORMALIZATION,SAFE_TO_MAP,"Deterministic normalisation: case, spacing, punctuation, slash chain, parenthetical, plural, percentage or reviewed alias.",MAPPED,True,False,False,False,Roop-15; Roop-19
+Butylene Glycol,2,Primary/Secondary,Butylene Glycol,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-06; Roop-21
+Cocoa Butter,2,Primary,Cocoa Butter,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-85; Roop-86
+Disodium Cocoamphodiacetate,2,Secondary,Disodium Cocoamphodiacetate,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-28; Roop-38
+Glycolic Acid,2,Primary,Glycolic Acid,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-69; Roop-91
+Heartleaf Extract,2,Primary,Heartleaf Extract,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-03; Roop-43
+Jeju Volcanic Ash,2,Primary,Volcanic Ash,DOMAIN_REVIEWED,SAFE_TO_MAP,Approved row in domain_reviewed_mappings_expanded.csv.,MAPPED,True,False,False,False,Roop-32; Roop-33
+Jojoba Seed Oil,2,Primary,Jojoba Oils,DOMAIN_REVIEWED,SAFE_TO_MAP,Approved row in domain_reviewed_mappings_expanded.csv.,MAPPED,True,False,False,False,Roop-12; Roop-43
+Kaolin,2,Primary,Kaolin,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-32; Roop-33
+Lauryl Glucoside,2,Secondary,Lauryl Glucoside,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-31; Roop-32
+Lauryl Hydroxysultaine,2,Secondary,Lauryl Hydroxysultaine,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-31; Roop-32
+Mango Butter,2,Primary,Mango Butter,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-85; Roop-86
+Mung Bean Extract,2,Primary/Secondary,Mung Bean Extract,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-24; Roop-26
+Peptide Complex,2,Primary,Peptide Complex,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-08; Roop-58
+Phytosphingosine,2,Secondary,Phytosphingosine,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-50; Roop-52
+Rice Bran Extract,2,Primary/Secondary,Rice Bran Extract,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-01; Roop-59
+Rice Bran Oil,2,Primary,Rice Bran Oil,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-28; Roop-30
+Snail Secretion Filtrate,2,Primary,Snail Secretion Filtrate,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-06; Roop-07
+Sodium C14-16 Olefin Sulfonate,2,Secondary,Sodium C14-16 Olefin Sulfonate,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-91; Roop-93
+Sodium Cocoyl Glycinate,2,Secondary,Sodium Cocoyl Glycinate,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-38; Roop-40
+Tea Tree Leaf Oil,2,Primary,Tea Tree Leaf Oil,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-10; Roop-11
+Tocopherol (Vitamin E),2,Primary/Secondary,Tocopherol,SAFE_NORMALIZATION,SAFE_TO_MAP,"Deterministic normalisation: case, spacing, punctuation, slash chain, parenthetical, plural, percentage or reviewed alias.",MAPPED,True,False,False,False,Roop-87; Roop-95
+Tocopheryl Acetate,2,Secondary,Tocopheryl Acetate,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-19; Roop-89
+Trehalose,2,Secondary,Trehalose,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-33; Roop-77
+Vitamin C,2,Primary,Vitamin C / Ascorbic Acid,SAFE_NORMALIZATION,SAFE_TO_MAP,"Deterministic normalisation: case, spacing, punctuation, slash chain, parenthetical, plural, percentage or reviewed alias.",MAPPED,True,False,False,False,Roop-54; Roop-91
+Zinc PCA,2,Primary/Secondary,Zinc PCA,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-32; Roop-68
+0.1% Retinal,1,Primary,Retinal 0.1%,SAFE_NORMALIZATION,SAFE_TO_MAP,"Deterministic normalisation: case, spacing, punctuation, slash chain, parenthetical, plural, percentage or reviewed alias.",MAPPED,True,False,False,False,Roop-89
+0.1% Retinol,1,Primary,Retinol 0.1%,SAFE_NORMALIZATION,SAFE_TO_MAP,"Deterministic normalisation: case, spacing, punctuation, slash chain, parenthetical, plural, percentage or reviewed alias.",MAPPED,True,False,False,False,Roop-88
+0.3% Retinol,1,Primary,Retinol 0.3%,SAFE_NORMALIZATION,SAFE_TO_MAP,"Deterministic normalisation: case, spacing, punctuation, slash chain, parenthetical, plural, percentage or reviewed alias.",MAPPED,True,False,False,False,Roop-87
+0.3% Salicylic Acid,1,Secondary,Salicylic Acid,SAFE_NORMALIZATION,SAFE_TO_MAP,"Deterministic normalisation: case, spacing, punctuation, slash chain, parenthetical, plural, percentage or reviewed alias.",MAPPED,True,False,False,False,Roop-80
+0.5% Oleyl Adapalenate,1,Primary,Oleyl Adapalenate,SAFE_NORMALIZATION,SAFE_TO_MAP,"Deterministic normalisation: case, spacing, punctuation, slash chain, parenthetical, plural, percentage or reviewed alias.",MAPPED,True,False,False,False,Roop-89
+1% Acetyl Glucosamine,1,Primary,N-Acetyl Glucosamine,DOMAIN_REVIEWED,SAFE_TO_MAP,Approved row in domain_reviewed_mappings_expanded.csv.,MAPPED,True,False,False,False,Roop-78
+1% Bakuchiol,1,Primary,Bakuchiol 1%,SAFE_NORMALIZATION,SAFE_TO_MAP,"Deterministic normalisation: case, spacing, punctuation, slash chain, parenthetical, plural, percentage or reviewed alias.",MAPPED,True,False,False,False,Roop-87
+1% Glycolic Acid,1,Primary,Glycolic Acid,SAFE_NORMALIZATION,SAFE_TO_MAP,"Deterministic normalisation: case, spacing, punctuation, slash chain, parenthetical, plural, percentage or reviewed alias.",MAPPED,True,False,False,False,Roop-70
+1% Hyaluronic Acid,1,Primary,Hyaluronic Acid 1%,SAFE_NORMALIZATION,SAFE_TO_MAP,"Deterministic normalisation: case, spacing, punctuation, slash chain, parenthetical, plural, percentage or reviewed alias.",MAPPED,True,False,False,False,Roop-14
+10% Ethyl Ascorbic Acid,1,Primary,3-O-Ethyl Ascorbic Acid,SAFE_NORMALIZATION,SAFE_TO_MAP,"Deterministic normalisation: case, spacing, punctuation, slash chain, parenthetical, plural, percentage or reviewed alias.",MAPPED,True,False,False,False,Roop-78
+10% Panthenol,1,Primary,Panthenol,SAFE_NORMALIZATION,SAFE_TO_MAP,"Deterministic normalisation: case, spacing, punctuation, slash chain, parenthetical, plural, percentage or reviewed alias.",MAPPED,True,False,False,False,Roop-05
+10% Urea,1,Primary,Urea 10%,SAFE_NORMALIZATION,SAFE_TO_MAP,"Deterministic normalisation: case, spacing, punctuation, slash chain, parenthetical, plural, percentage or reviewed alias.",MAPPED,True,False,False,False,Roop-72
+2% Alpha-Arbutin,1,Primary,Alpha Arbutin,SAFE_NORMALIZATION,SAFE_TO_MAP,"Deterministic normalisation: case, spacing, punctuation, slash chain, parenthetical, plural, percentage or reviewed alias.",MAPPED,True,False,False,False,Roop-24
+2% Arbutin,1,Primary,Arbutin,SAFE_NORMALIZATION,SAFE_TO_MAP,"Deterministic normalisation: case, spacing, punctuation, slash chain, parenthetical, plural, percentage or reviewed alias.",MAPPED,True,False,False,False,Roop-39
+2% Hyaluronic Acid,1,Primary,Hyaluronic Acid 2%,SAFE_NORMALIZATION,SAFE_TO_MAP,"Deterministic normalisation: case, spacing, punctuation, slash chain, parenthetical, plural, percentage or reviewed alias.",MAPPED,True,False,False,False,Roop-77
+2% Lactic Acid,1,Primary,Lactic Acid,SAFE_NORMALIZATION,SAFE_TO_MAP,"Deterministic normalisation: case, spacing, punctuation, slash chain, parenthetical, plural, percentage or reviewed alias.",MAPPED,True,False,False,False,Roop-90
+2% Tranexamic Acid,1,Primary,Tranexamic Acid 2%,SAFE_NORMALIZATION,SAFE_TO_MAP,"Deterministic normalisation: case, spacing, punctuation, slash chain, parenthetical, plural, percentage or reviewed alias.",MAPPED,True,False,False,False,Roop-56
+3% Kokum Seed Butter,1,Primary,Kokum Seed Butter,SAFE_NORMALIZATION,SAFE_TO_MAP,"Deterministic normalisation: case, spacing, punctuation, slash chain, parenthetical, plural, percentage or reviewed alias.",MAPPED,True,False,False,False,Roop-72
+3% Lactic Acid,1,Primary,Lactic Acid,SAFE_NORMALIZATION,SAFE_TO_MAP,"Deterministic normalisation: case, spacing, punctuation, slash chain, parenthetical, plural, percentage or reviewed alias.",MAPPED,True,False,False,False,Roop-70
+3% Mandelic Acid,1,Primary,Mandelic Acid,SAFE_NORMALIZATION,SAFE_TO_MAP,"Deterministic normalisation: case, spacing, punctuation, slash chain, parenthetical, plural, percentage or reviewed alias.",MAPPED,True,False,False,False,Roop-80
+3% Mango Seed Butter,1,Primary,Mango seed butter,SAFE_NORMALIZATION,SAFE_TO_MAP,"Deterministic normalisation: case, spacing, punctuation, slash chain, parenthetical, plural, percentage or reviewed alias.",MAPPED,True,False,False,False,Roop-72
+3% Tranexamic Acid,1,Primary,Tranexamic Acid 3%,SAFE_NORMALIZATION,SAFE_TO_MAP,"Deterministic normalisation: case, spacing, punctuation, slash chain, parenthetical, plural, percentage or reviewed alias.",MAPPED,True,False,False,False,Roop-80
+4% Niacinamide,1,Primary,Niacinamide 4%,SAFE_NORMALIZATION,SAFE_TO_MAP,"Deterministic normalisation: case, spacing, punctuation, slash chain, parenthetical, plural, percentage or reviewed alias.",MAPPED,True,False,False,False,Roop-56
+4% Tranexamic Acid,1,Primary,Tranexamic Acid,SAFE_NORMALIZATION,SAFE_TO_MAP,"Deterministic normalisation: case, spacing, punctuation, slash chain, parenthetical, plural, percentage or reviewed alias.",MAPPED,True,False,False,False,Roop-39
+5% Ascorbic Acid,1,Primary,Vitamin C / Ascorbic Acid 5%,SAFE_NORMALIZATION,SAFE_TO_MAP,"Deterministic normalisation: case, spacing, punctuation, slash chain, parenthetical, plural, percentage or reviewed alias.",MAPPED,True,False,False,False,Roop-18
+5% Lactic Acid,1,Primary,Lactic Acid 5%,SAFE_NORMALIZATION,SAFE_TO_MAP,"Deterministic normalisation: case, spacing, punctuation, slash chain, parenthetical, plural, percentage or reviewed alias.",MAPPED,True,False,False,False,Roop-73
+6% Triple Milk Blend (Shea + Coconut + Oat),1,Primary,Triple Milk Blend (Shea + Oat + Coconut),SAFE_NORMALIZATION,SAFE_TO_MAP,"Deterministic normalisation: case, spacing, punctuation, slash chain, parenthetical, plural, percentage or reviewed alias.",MAPPED,True,False,False,False,Roop-75
+8% Glycolic Acid,1,Primary,Glycolic Acid,SAFE_NORMALIZATION,SAFE_TO_MAP,"Deterministic normalisation: case, spacing, punctuation, slash chain, parenthetical, plural, percentage or reviewed alias.",MAPPED,True,False,False,False,Roop-79
+Acetyl Glucosamine,1,Primary,N-Acetyl Glucosamine,DOMAIN_REVIEWED,SAFE_TO_MAP,Approved row in domain_reviewed_mappings_expanded.csv.,MAPPED,True,False,False,False,Roop-08
+Almond Oil,1,Secondary,Almond Oil,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-71
+Aloe Bioferment,1,Secondary,Aloe Bioferment,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-47
+Aloe Extract,1,Primary,Aloe Extract,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-09
+Aloe Leaf Water,1,Secondary,Aloe Leaf Water,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-17
+Aloe Vera Leaf Extract,1,Primary,Aloe Vera,DOMAIN_REVIEWED,SAFE_TO_MAP,Approved row in domain_reviewed_mappings_expanded.csv.,MAPPED,True,False,False,False,Roop-47
+Alpha Lipoic Acid,1,Primary,Alpha Lipoic Acid,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-69
+Amino Acid Complex,1,Primary,Amino Acid,SAFE_NORMALIZATION,SAFE_TO_MAP,"Deterministic normalisation: case, spacing, punctuation, slash chain, parenthetical, plural, percentage or reviewed alias.",MAPPED,True,False,False,False,Roop-31
+Aquaxyl,1,Primary,Aquaxyl,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-04
+Arbutin,1,Secondary,Arbutin,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-41
+Ascorbyl Glucoside,1,Primary,Ascorbyl Glucoside,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-35
+Bakuchiol,1,Primary,Bakuchiol,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-89
+Bamboo Water,1,Primary,Bamboo Water,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-79
+Birch Sap,1,Primary,Betula Platyphylla Japonica Juice (Birch Sap),DOMAIN_REVIEWED,SAFE_TO_MAP,Approved row in domain_reviewed_mappings_expanded.csv.,MAPPED,True,False,False,False,Roop-04
+Blood Orange Extract,1,Primary,Blood orange Extract,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-35
+Blueberry Extract,1,Primary,Blueberry Extract,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-37
+Calendula Extract,1,Secondary,Calendula Extract,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-02
+Centella Extract,1,Secondary,Centella Extract,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-17
+Cetearyl Alcohol,1,Secondary,Cetearyl Alcohol,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-48
+Chamomile Extract,1,Primary,Chamomile Extract,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-74
+Chlorella Vulgaris Extract,1,Secondary,Chlorella Vulgaris Extract,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-94
+Coco-Betaine,1,Secondary,Coco-Betaine,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-82
+Coenzyme Q10,1,Secondary,Ubiquinone (CoQ10),DOMAIN_REVIEWED,SAFE_TO_MAP,Approved row in domain_reviewed_mappings_expanded.csv.,MAPPED,True,False,False,False,Roop-87
+Collagen,1,Primary,Collagen,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-27
+Collagen Extract,1,Primary,Collagen Extract,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-94
+Cotton Seed Extract,1,Primary,Cottonseed Extract,SAFE_NORMALIZATION,SAFE_TO_MAP,"Deterministic normalisation: case, spacing, punctuation, slash chain, parenthetical, plural, percentage or reviewed alias.",MAPPED,True,False,False,False,Roop-46
+Cyclomethicone,1,Primary,Dimethicone,DOMAIN_REVIEWED,SAFE_TO_MAP,Approved row in domain_reviewed_mappings_expanded.csv.,MAPPED,True,False,False,False,Roop-53
+Deep Sea Water,1,Primary,Deep Sea Water,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-83
+Dipotassium Glycyrrhizate,1,Primary,Dipotassium Glycyrrhizate,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-09
+Disodium Cocoyl Glutamate,1,Secondary,Disodium Cocoyl Glutamate,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-31
+Ectoin,1,Primary,Ectoin,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-16
+Edelweiss Extract,1,Primary,Edelweiss Extract,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-45
+Ethoxydiglycol,1,Secondary,Ethoxydiglycol,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-79
+Fermented Rice,1,Primary,Fermented Rice,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-22
+Galactomyces Ferment Filtrate,1,Secondary,Galactomyces Ferment Filtrate,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-27
+Ginseng Root Water,1,Primary,Ginseng Root Water,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-81
+Glacial Water,1,Secondary,Glacier Water,DOMAIN_REVIEWED,SAFE_TO_MAP,Approved row in domain_reviewed_mappings_expanded.csv.,MAPPED,True,False,False,False,Roop-29
+Gluconolactone (PHA),1,Primary,Gluconolactone (PHA),EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-78
+Glutathione,1,Secondary,Glutathione,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-01
+Glyceryl Glucoside,1,Primary,Glyceryl Glucoside,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-77
+Green Tea,1,Primary,Green Tea Oil,SAFE_NORMALIZATION,SAFE_TO_MAP,"Deterministic normalisation: case, spacing, punctuation, slash chain, parenthetical, plural, percentage or reviewed alias.",MAPPED,True,False,False,False,Roop-40
+Green Tea Oil,1,Primary,Green Tea Oil,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-12
+Heartleaf Water/Extract,1,Primary,Heartleaf Extract,DOMAIN_REVIEWED,SAFE_TO_MAP,Approved row in domain_reviewed_mappings_expanded.csv.,MAPPED,True,False,False,False,Roop-38
+Himalayan Pink Salt,1,Primary,Himalayan Pink salt,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-58
+Lactic Acid,1,Primary,Lactic Acid,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-33
+Marrubium Vulgare Extract,1,Secondary,Horehound Extract,DOMAIN_REVIEWED,SAFE_TO_MAP,Approved row in domain_reviewed_mappings_expanded.csv.,MAPPED,True,False,False,False,Roop-76
+Mexoryl 400,1,Secondary,Mexoryl 400 / MCE,SAFE_NORMALIZATION,SAFE_TO_MAP,"Deterministic normalisation: case, spacing, punctuation, slash chain, parenthetical, plural, percentage or reviewed alias.",MAPPED,True,False,False,False,Roop-34
+Mexoryl SX,1,Secondary,Ecamsule / Mexoryl SX,SAFE_NORMALIZATION,SAFE_TO_MAP,"Deterministic normalisation: case, spacing, punctuation, slash chain, parenthetical, plural, percentage or reviewed alias.",MAPPED,True,False,False,False,Roop-14
+Mexoryl XL,1,Secondary,Drometrizole Trisiloxane / Mexoryl XL,SAFE_NORMALIZATION,SAFE_TO_MAP,"Deterministic normalisation: case, spacing, punctuation, slash chain, parenthetical, plural, percentage or reviewed alias.",MAPPED,True,False,False,False,Roop-23
+Octocrylene,1,Secondary,Octocrylene,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-20
+Olive Oil,1,Primary,Olive Oil,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-45
+PGA Complex,1,Primary,Pga (Polyglutamic Acid),DOMAIN_REVIEWED,SAFE_TO_MAP,Approved row in domain_reviewed_mappings_expanded.csv.,MAPPED,True,False,False,False,Roop-77
+Pantolactone,1,Secondary,Pantolactone,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-48
+Pentylene Glycol,1,Primary,Pentylene Glycol,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-21
+Plant Based AHA,1,Primary,Plant Based AHA (Alpha Hydroxy Acids),SAFE_NORMALIZATION,SAFE_TO_MAP,"Deterministic normalisation: case, spacing, punctuation, slash chain, parenthetical, plural, percentage or reviewed alias.",MAPPED,True,False,False,False,Roop-92
+Plum Water,1,Primary,Plum Water,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-26
+Polyglutamic Acid,1,Primary,Polyglutamic Acid,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-47
+Potassium Cocoyl Glycinate,1,Secondary,Potassium Cocoyl Glycinate,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-04
+Propanediol,1,Secondary,Propanediol,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-79
+Propolis Extract,1,Primary,Propolis Extract,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-25
+Quercetin/Quercetinol,1,Primary,Quercetin,DOMAIN_REVIEWED,SAFE_TO_MAP,Approved row in domain_reviewed_mappings_expanded.csv.,MAPPED,True,False,False,False,Roop-38
+Red Algae Extract,1,Primary,Red Algae Extract,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-83
+Rice Powder,1,Primary,Rice Powder,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-40
+Rice Seed Water,1,Primary,Rice Seed Water,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-23
+Saccharide Isomerate,1,Primary,Saccharide Isomerate (Plant Derived Moisturiser),SAFE_NORMALIZATION,SAFE_TO_MAP,"Deterministic normalisation: case, spacing, punctuation, slash chain, parenthetical, plural, percentage or reviewed alias.",MAPPED,True,False,False,False,Roop-74
+Saccharomyces Ferment,1,Secondary,Saccharomyces ferment,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-77
+Sage Extract,1,Secondary,Sage Extract,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-03
+Sea Buckthorn Extract,1,Primary,Sea Buckthorn Extract,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-01
+Silica,1,Secondary,Silica,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-33
+Soapwort Extract,1,Primary,Saponaria Officinalis Leaf Extract (Soapwort),SAFE_NORMALIZATION,SAFE_TO_MAP,"Deterministic normalisation: case, spacing, punctuation, slash chain, parenthetical, plural, percentage or reviewed alias.",MAPPED,True,False,False,False,Roop-28
+Sodium Ascorbyl Phosphate,1,Secondary,Sodium Ascorbyl Phosphate,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-18
+Sodium Lauroyl Glutamate,1,Secondary,Sodium Lauroyl Glutamate,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-38
+Sodium PCA,1,Secondary,Sodium PCA,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-79
+Sorbeth-30 Tetraoleate,1,Secondary,Sorbeth-30 Tetraoleate,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-43
+Soybean Extract,1,Secondary,Soybean Extract,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-24
+Squalene,1,Primary,Squalene,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-84
+Sugarcane Extract,1,Primary,Sugar Cane Extract,SAFE_NORMALIZATION,SAFE_TO_MAP,"Deterministic normalisation: case, spacing, punctuation, slash chain, parenthetical, plural, percentage or reviewed alias.",MAPPED,True,False,False,False,Roop-83
+Sunflower Oil,1,Secondary,Sunflower Seed Oil,SAFE_NORMALIZATION,SAFE_TO_MAP,"Deterministic normalisation: case, spacing, punctuation, slash chain, parenthetical, plural, percentage or reviewed alias.",MAPPED,True,False,False,False,Roop-73
+Sunflower Seed Oil,1,Secondary,Sunflower Seed Oil,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-43
+Sunflower Sprout Extract,1,Primary,Sunflower Seed Extract,DOMAIN_REVIEWED,SAFE_TO_MAP,Approved row in domain_reviewed_mappings_expanded.csv.,MAPPED,True,False,False,False,Roop-46
+Sweet Almond Oil,1,Secondary,Sweet Almond Oil,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-49
+Tea Tree Extract,1,Secondary,Tea Tree Extract,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-25
+Thermus Thermophilus Ferment,1,Primary,Thermus Thermophilus Ferment,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-55
+Thyme Leaf Extract,1,Primary,Thyme Leaf Extract,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-45
+Tocotrienols,1,Secondary,Tocotrienol (Vitamin E),SAFE_NORMALIZATION,SAFE_TO_MAP,"Deterministic normalisation: case, spacing, punctuation, slash chain, parenthetical, plural, percentage or reviewed alias.",MAPPED,True,False,False,False,Roop-88
+Turmeric Root Extract,1,Primary,Turmeric Extract,DOMAIN_REVIEWED,SAFE_TO_MAP,Approved row in domain_reviewed_mappings_expanded.csv.,MAPPED,True,False,False,False,Roop-43
+Vitamin E Acetate,1,Primary,Vitamin E,SAFE_NORMALIZATION,SAFE_TO_MAP,"Deterministic normalisation: case, spacing, punctuation, slash chain, parenthetical, plural, percentage or reviewed alias.",MAPPED,True,False,False,False,Roop-84
+Watermelon Extract,1,Primary,Watermelon Extract,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-36
+Willow Bark Water,1,Primary,Willow Bark Water,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-10
+Witch Hazel Extract,1,Primary,Witch Hazel,SAFE_NORMALIZATION,SAFE_TO_MAP,"Deterministic normalisation: case, spacing, punctuation, slash chain, parenthetical, plural, percentage or reviewed alias.",MAPPED,True,False,False,False,Roop-40
+Yuzu Extract,1,Primary,Yuzu Extract,EXACT_CANONICAL,SAFE_TO_MAP,Name is itself a canonical workbook entry.,MAPPED,True,False,False,False,Roop-18
